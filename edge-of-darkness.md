@@ -1,5 +1,7 @@
 # Edge of Darkness
 
+Pachi y darcy hacen sus improvemnt rolls, incluyendo LUCK y sumar 2 d6 sanity (max limite anterior)
+
 "Fueron contactados por Rupert Merriweather, un viejo conocido con quien no han hablado en ya largos años. Rupert esta
 internado en el el Hospital Escuela Santa Maria de los Condenados, en la ciudad de Arkham. Estando en las mismisimas
 puertas de la
@@ -372,8 +374,10 @@ El acechador quiere ver q traman los investigadores y q pueden hacer antes de at
 * Para dibujar el pentagrama [art, occult]
 * [Dex] para tirar bien el polvo
 
-Cada 30 minutos donan 2 puntos de magia, si se quedan sin empiezan a donar 2 de vida.
-Si logran entrar los zombies, tienen q tirar luck los q esten peleando cada ronda para q no se rompa el pentagrama.
+Cada 30 minutos donan 2 puntos de magia, si se quedan sin, empiezan a donar 2 de vida.
+
+* Si logran entrar los zombies, tienen q tirar luck los q esten peleando cada ronda para q no se rompa el pentagrama.
+* Si no, atacan los simbolos protectores, o a quien este afuera.
 
 Los primeros 20 minutos pasan con tranquilidad
 
@@ -381,7 +385,10 @@ Los primeros 20 minutos pasan con tranquilidad
 
 El mosntruo hace notar su prescencia. Resuenan aullidos por toda la casa, gruñidos y maldiciones en latin en una voz
 gutural.
-"Ego epulabor cordibus liberorum tuorum." -  "Vos ut pupas utar ad inter se occidendos." - "Tu morieris hac nocte."
+
+"Sus corazones nutrirán mi hambre eterna."
+"Su desesperación me alimenta."
+
 Mientras la casa enmpieza a sacurdirse, y caen los objetos de los estantes [Sanity](0/1D3)
 
 #### 0 30 -2 Magic
@@ -393,9 +400,9 @@ Empiezan a oler algo putrefacto, fuerte [luck] Cae una especie de brea viscosa d
 
 El acechador parece calmarse. [listen] Si tienen exito escuchan una mujer pidiendo ayuda con un grito debil y
 quejumbroso.
-Si alguno sale ve una figura en la oscuridad arrastrandose hacia la casa. [spot hidden] o usar una linterna revela que
-es Maggy, muy lastimada, yendo hacia la casa, su cara cubierta de sangre. Al verla de cerca y darse cuenta q esta
-muerta [sanity](1/1D6).
+Si alguno sale ve una figura en la oscuridad rengueando hacia la casa. [spot hidden] o usar una linterna revela que
+es Maggy, muy lastimada, yendo hacia la casa, su cara cubierta de sangre. 
+Al verla de cerca y darse cuenta q esta muerta [sanity](1/1D6).
 Si hay alguno afuera sera atacado por Maggie.
 
 ### 01 00 -2 magic
