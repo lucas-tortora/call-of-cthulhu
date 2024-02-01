@@ -1,6 +1,6 @@
 # Edge of Darkness
 
-"Fueron contactados por Rupert Merriweather, un viejo conocido con quien no han hablado en ya largos a;os. Rupert esta
+"Fueron contactados por Rupert Merriweather, un viejo conocido con quien no han hablado en ya largos años. Rupert esta
 internado en el el Hospital Escuela Santa Maria de los Pecadores, en la ciudad de Arkham. Estando en las mismisimas
 puertas de la
 muerte, Rupert los convoco con suma urgencia este Jueves a la 1 de la tarde. Dada su precaria salud, y cuanto tiempo
@@ -16,8 +16,8 @@ esta con visitas.
 
 [Presenten y describanse]
 
-Cuando entran ven a Rupert postrado en la cama junto con su esposa Agnes de aproximadamente 65 a;os, quien esta
-desconsolada y su hijo Bertrand, de unos 35, q a simple vista parece un ;i;ato malcriado con cara de sabandija.
+Cuando entran ven a Rupert postrado en la cama junto con su esposa Agnes de aproximadamente 65 años, quien esta
+desconsolada y su hijo Bertrand, de unos 35, q a simple vista parece un ñiñato malcriado con cara de sabandija.
 
 Rupert tiene una apariencia sumamente fragil y palida, con los cachetes ya hundidos. Le cuesta respirar y se nota que
 por mas q intente no logra nunca llenar sus pulmones. A menudo tose sangre con lo q pareciera una especie de pus color
@@ -120,7 +120,7 @@ si les da paja leerlo, aprenden q:
 ### Investigar la Muerte de MArrion Allen
 
 Entregar recortes policiales. Aprenden que Marrion fuer cremado en nueva Orleans. Lo mataron a golpes, luego le abrieron
-el pech, sacaron el corazon y grabar signos extra;os en la cara.
+el pech, sacaron el corazon y grabar signos extraños en la cara.
 
 ## Estudiar los jeroglificos
 
@@ -143,7 +143,7 @@ similares a los del interior de la caja. No son taducibles.
 ### De vermiis Mysteriss
 
 Esta en el sector restringido de la bibliotca, puesto ahi por el Dr Henry Armitage, curador de la biblioteca. Esta en su
-oficna en la ma;ana, pero no les va dar el libro de ninguna manera.
+oficna en la mañana, pero no les va dar el libro de ninguna manera.
 
 ## El rincon de Ross
 
@@ -151,7 +151,7 @@ oficna en la ma;ana, pero no les va dar el libro de ninguna manera.
 
 Para llegar a la granja, deben pasar por el pueblo el Rincon de Ross, al norte de Arkham. Hay bondis a las 10 am, y
 vuelven a las 14.
-El pueblo es peque;o, consiste en un par de casitas y edificios medio dejados. Habra unas 40 personas en total. La
+El pueblo es pequeño, consiste en un par de casitas y edificios medio dejados. Habra unas 40 personas en total. La
 comunidad esta armada en torno a una Iglesia, y una combinacion de estacion de servicio, correo y estacion de servicio.
 
 Pueden comprar cosas, nafta o pedir direcciones y hablar con los locales.
@@ -221,12 +221,12 @@ herramientas oxidadas, y no hay animales mas grandes que una rata.
 Cuando se acercan ven una vieja hamaca para dos enterrada entre pastos altos. Las cadenas siguen enganchadas al arbol,
 rechinando con el viento.
 
-En los marcos de las puertas y ventanas pueden ver simbolos extra;os grabados. Si tiran [occult] con exito los
+En los marcos de las puertas y ventanas pueden ver simbolos extraños grabados. Si tiran [occult] con exito los
 identifican como protectores contra espiritus. Siempre y cuando esten en su lugar, si de alguna manera son separados de
 la estructura son inutiles. MArrion allen era el unico de la hermandad q sabia crearlos.
 
 Hay una unica puerta al frente, con una lampara sin mecha ni aceite. La llave al abre facilmente, y se escucha una
-chillido entre la madera y metal q pareciera protestar ser abierta dps de tantos a;os.
+chillido entre la madera y metal q pareciera protestar ser abierta dps de tantos años.
 Si revisan la puerta de atras esta abierta.
 
 ## Interior de la CAsa
@@ -239,7 +239,7 @@ escombros dan color al pisl. Pueden ver una salamandra con una ventilacion todav
 mesa redonda con sillas. El piso esta manchado y deformado por la humedad y agua q entraba desde el techo. El agua causo
 que se vayan pudriendo unos sillones y mesa, tal vez la causa del olor... \
 
-Cerca de la entrada a la otra habitacion pueden ver una peque;a puerta que llleva una escalera angosta hacia un sotano.
+Cerca de la entrada a la otra habitacion pueden ver una pequeña puerta que llleva una escalera angosta hacia un sotano.
 
 [listen] Si tiene exito ecuchan movimientos en el sotano.
 
@@ -248,7 +248,7 @@ Cerca de la entrada a la otra habitacion pueden ver una peque;a puerta que lllev
 Parece estar en mejor estaod. Hay una mecedora comda en un rincon, una mesa contra la pared bajo la ventana de la pared
 trasera.
 Sobre la mesa pueden ver un biejo baston. Hay una chimenea grande de piedra. La puerta esta abierta, se ve el granero...
-Hay una puertita en el techo, q lleva al atico, cuyo marco tambien tiene los extra;os simbolos que vieron en las
+Hay una puertita en el techo, q lleva al atico, cuyo marco tambien tiene los extraños simbolos que vieron en las
 aperturas exteriores.
 
 En la mesa tambien hay, junto al baston, una tela gruesa y gastada, una cajita de fosforos, un destornillador, una
@@ -285,7 +285,7 @@ shock, si lo calman o tiran con exito [psicology] logran calmarlo.
 
 "VIajo sin rumbo por la costa, haciendo laburitos eventuales..tengo familia en california, pero no logre llegar...."
 "Encontre la csaa anoche, pense q seria un lindo lugar para pasar la noche entre labros."
-"Escuche unos ruidos extta;os y me ataco el mostro ...con un aullido que les levantaria la piel me persiguie hasta el
+"Escuche unos ruidos exttaños y me ataco el mostro ...con un aullido que les levantaria la piel me persiguie hasta el
 bosque, mientras emanaba un olor a carne podrida"
 "Los santos debian estar de mi lado, ya que algo lo distrajo y se fue hacia el bosque y me dejo solo"
 
@@ -312,14 +312,14 @@ prolijamente cerrado.
 #### El baul
 
 Al abrir el baul lo primero que ven es una [carta](#carta-del-baul) q descansa sobre una tela negra q envuelve todo lo q
-hay dentro del baul. En el lado interior de la tapa del baul ven los mismos signos extra;os que hay en las aberturas de
+hay dentro del baul. En el lado interior de la tapa del baul ven los mismos signos extraños que hay en las aberturas de
 la casa. Si mueven la tela negra, pueden encontrar 6 tunicas negras, una [caja de cigarros](#la-caja-de-cigarros) y una
 pila de [papeles amarillentos](#los-papeles-amarillentos) por el paso del tiempo.
 
 #### La caja de cigarros
 
 La caja data de 1870. Dentro de la msiam pueden encontrar una lata con un polvo marron, y una cajita de madera mas
-peque;a con una tapa corrediza, dentro de la cual hay un polvo tipo talco que deja un residuo grasiento en las manos,
+pequeña con una tapa corrediza, dentro de la cual hay un polvo tipo talco que deja un residuo grasiento en las manos,
 pero se limpia facil.
 
 * [cthulhu mythos] El polvo blanco es el polvo de IBN-GHAZI. Alternativamente [INT] para darse cuenta q puede servir
@@ -340,13 +340,13 @@ Los appeles estan escritos a mano en 1877 por MArrion:
 ### Atico
 
 Si algun investigador se asoma al atico, el acechador va a esperar hasta q se asome para atacar. Es casi invisible, una
-linterna solo muestra como el polvo y las telaara;as se mueven en patrones extra;os, mientras escuchan unos golpes
+linterna solo muestra como el polvo y las telaarañas se mueven en patrones extraños, mientras escuchan unos golpes
 fuertes y secos en el piso.
 [dodge]
 
-* Si tiene exito cae al piso sufriendo 1D3, y se cierra la puerta de un golpe. Se escuhan gru;idos y jadeo desde
+* Si tiene exito cae al piso sufriendo 1D3, y se cierra la puerta de un golpe. Se escuhan gruñidos y jadeo desde
   el atico. Cualquiera q lo haya visto tira [sanity](1/1D2).
-* Si falla las garras del acechador se le clavan en la cara ocasionando 1D8+1D6 de da;o, mas 1D3 por la caida. .
+* Si falla las garras del acechador se le clavan en la cara ocasionando 1D8+1D6 de daño, mas 1D3 por la caida. .
   Cualquiera q lo haya visto tira [sanity](1/1D3).
     * Si sobrevive queda con varias cicatrices en la cara.
     * Sino el acechador logro cloavarle sus garras en la cara, y con un chillido que les hiela la sangre arrastra el
@@ -379,7 +379,7 @@ Los primeros 20 minutos pasan con tranquilidad
 
 #### 00 20
 
-El mosntruo hace notar su prescencia. Resuenan aullidos por toda la casa, gru;idos y maldiciones en latin en una voz
+El mosntruo hace notar su prescencia. Resuenan aullidos por toda la casa, gruñidos y maldiciones en latin en una voz
 gutural.
 "Ego epulabor cordibus liberorum tuorum." -  "Vos ut pupas utar ad inter se occidendos." - "Tu morieris hac nocte."
 Mientras la casa enmpieza a sacurdirse, y caen los objetos de los estantes [Sanity](0/1D3)
@@ -456,7 +456,7 @@ puede:
 * animar el cadaver de cualquier cosa q mato por 3 horas. Cuesta 5 algo grande, 1 por cosas chicas.
 * pasar a travez de paredes sin esfuerzo
 * generar ruidos y olores q haya vivido
-* puede tirar acido por 1D2 de da;o (no hay dodge)
+* puede tirar acido por 1D2 de daño (no hay dodge)
 * ataca con garras pr 1D8+1D6
 
 ### ROBERT “RED JAKE” BAKER,
