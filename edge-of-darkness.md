@@ -1,13 +1,13 @@
 # Edge of Darkness
 
 "Fueron contactados por Rupert Merriweather, un viejo conocido con quien no han hablado en ya largos años. Rupert esta
-internado en el el Hospital Escuela Santa Maria de los Pecadores, en la ciudad de Arkham. Estando en las mismisimas
+internado en el el Hospital Escuela Santa Maria de los Condenados, en la ciudad de Arkham. Estando en las mismisimas
 puertas de la
 muerte, Rupert los convoco con suma urgencia este Jueves a la 1 de la tarde. Dada su precaria salud, y cuanto tiempo
 paso desde su ultimo contacto, parece ser de suma importancia. Tal vez tiene algo q pedirles en antes de pasar a mejor
 vida?"
 
-## Hospital Escuela Santa Maria de los Pecadores
+## Hospital Escuela Santa Maria de los Condenados
 
 El hospital se encuentra en el centro de Arkhma, junto a la historica Universidad de Miskatonic. Cuenta con los metodos
 y equipos mas modernos, al igual que los mejores medicos de la costa este. El entrar al hospital una enfermera les
