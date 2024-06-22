@@ -323,6 +323,7 @@ La caja data de 1870. Dentro de la msiam pueden encontrar una lata con un polvo 
 pequeña con una tapa corrediza, dentro de la cual hay un polvo tipo talco que deja un residuo grasiento en las manos,
 pero se limpia facil.
 
+* [science (chem o phamacy)] el polvo marron es sulfuro con oxido de cobre0
 * [cthulhu mythos] El polvo blanco es el polvo de IBN-GHAZI. Alternativamente [INT] para darse cuenta q puede servir
   contra el monstruo.
 
@@ -346,20 +347,20 @@ fuertes y secos en el piso.
 [dodge]
 
 * Si tiene exito cae al piso sufriendo 1D3, y se cierra la puerta de un golpe. Se escuhan gruñidos y jadeo desde
-  el atico. Cualquiera q lo haya visto tira [sanity](1/1D2).
+  el atico. Cualquiera q lo haya visto tira [sanity][1/1D2].
 * Si falla las garras del acechador se le clavan en la cara ocasionando 1D8+1D6 de daño, mas 1D3 por la caida. .
-  Cualquiera q lo haya visto tira [sanity](1/1D3).
+  Cualquiera q lo haya visto tira [sanity][1/1D3].
     * Si sobrevive queda con varias cicatrices en la cara.
     * Sino el acechador logro cloavarle sus garras en la cara, y con un chillido que les hiela la sangre arrastra el
       cadaver hacia el atico, le arranca el corazon y descarta el cadaver con las costillas abiertas de par en par.
-      quien lo vea tira [sanity](1/1D6)
+      quien lo vea tira [sanity][1/1D6]
 
 ## El ritual
 
 ### pre ritual
 
 Al bajar el sol (8pm) el acechador deja el atico para buscar comida. Con un grito q perfora timpanos cruza el campo
-hasta el bosque. SI alguno esta afuera lo ve parcialmente, aunque no entiende bien q es[sanity](0/1D3) por ver un vortex
+hasta el bosque. SI alguno esta afuera lo ve parcialmente, aunque no entiende bien q es[sanity][0/1D3] por ver un vortex
 de hojas medio negro volando por el aire tirando las hojas de los arboles.
 
 * Si escapo Jake el rojo, va tras de el y muere una muerte horrible a las 10 pm. si pegan un [listen] escuchan los
@@ -388,7 +389,7 @@ gutural.
 "Sus corazones nutrirán mi hambre eterna."
 "Su desesperación me alimenta."
 
-Mientras la casa enmpieza a sacurdirse, y caen los objetos de los estantes [Sanity](0/1D3)
+Mientras la casa enmpieza a sacurdirse, y caen los objetos de los estantes [Sanity][0/1D3]
 
 #### 0 30 -2 Magic
 
@@ -401,7 +402,7 @@ El acechador parece calmarse. [listen] Si tienen exito escuchan una mujer pidien
 quejumbroso.
 Si alguno sale ve una figura en la oscuridad rengueando hacia la casa. [spot hidden] o usar una linterna revela que
 es Maggy, muy lastimada, yendo hacia la casa, su cara cubierta de sangre. 
-Al verla de cerca y darse cuenta q esta muerta [sanity](1/1D6).
+Al verla de cerca y darse cuenta q esta muerta [sanity][1/1D6].
 Si hay alguno afuera sera atacado por Maggie.
 
 ### 01 00 -2 magic
@@ -429,7 +430,7 @@ los q estan chanteando [POW or CON]. si pushean un los zombies rompen uno de los
 
 El lurker aparece bindeando al pentagrama con la forma de la abuela del personaje de pachi. Le ofrece conocimiento mas
 alla de la imaginacion del hombre. [psicology?] Cuando le dicen que saben q no es aparece en su forma
-real [sanity](1/1D8).
+real [sanity][1/1D8].
 
 "La critatura deja de ser invisible, revelando un remolino de alquiltran negro, con docenas de ojos rojos en tentaculos
 moviendose en panico, maldiciendo guturalmente por varios picos llenos de afilados dientes y varias garras afiladas
@@ -440,7 +441,7 @@ cierra inmediatamente.
 
 ### Si escapa de alguna manera o huyen
 
-[sanity](1/1D4) al saber q el acechadro esta libre.
+[sanity][1/1D4] al saber q el acechadro esta libre.
 
 ## Epilogo
 
