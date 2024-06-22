@@ -415,14 +415,14 @@ Si no ataco antes, Maggie empieza a golpear las ventanas de la casa con violenci
 
 * Si lo mato el acechador, Jake empieza a golpear las ventanas traseras
 * [listen] El auto esta siendo atacado por un oso, quien luego procede a ir hacia la casa. Si alguno esta cerca y lo
-  ve [sanity](0/6)
+  ve [sanity][0/6]
 
 ### 01 30 -2 magic
 
 [listen hard] Si tienen exito escuchan cosas cayendo por la chimenea, y no son sorprendidos por 2 ratas
-zombies [sanity](0/3)
+zombies [sanity][0/3]
 El oso agarra el mapache y lo tira por la ventana. Si tiene exito, entra y es inmediatamente revivido como
-zombie [sanity](0/3).
+zombie [sanity][0/3].
 
 ### 01 55 - 2 magic
 
