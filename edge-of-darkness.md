@@ -211,7 +211,6 @@ corazon
 
 Si reportan el cuerpoo de Maggie a la policia pueden tener complicaciones, se vuelven sospechosos.
 
-Si inspeccionan el pasto alto
 
 ### El granero
 
