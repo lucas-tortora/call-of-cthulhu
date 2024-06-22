@@ -330,7 +330,7 @@ pero se limpia facil.
 #### Los papeles amarillentos
 
 [IMPORTANTISIMO]
-Los appeles estan escritos a mano en 1877 por MArrion:
+Los papeles estan escritos a mano en 1877 por MArrion:
 
 * Hay 6 iguales que son una copia en latin del encantamiento.
 * Una describre las hojas en latin como extractos modificados del De Vermiss Mysteriis.
@@ -354,6 +354,7 @@ fuertes y secos en el piso.
     * Sino el acechador logro cloavarle sus garras en la cara, y con un chillido que les hiela la sangre arrastra el
       cadaver hacia el atico, le arranca el corazon y descarta el cadaver con las costillas abiertas de par en par.
       quien lo vea tira [sanity][1/1D6]
+* si logran hacer q vaya un policia, y no es un reemplazo, sube al atico y muere horriblemente [sanity][1d4/1d6]
 
 ## El ritual
 
@@ -496,7 +497,7 @@ DB: 0 Build: 0 Move: 8
 * Fighting 70% (35/14), damage 1D8+1D6
 * Acid Attack 40% (20/8), damage 1D2, 10 feet (3m) range (target may Dodge)
   Dodge 45% (22/9)
-  Armor: none, but cannot be a ected by re, electricity, or acid. It only suffers half damage from weapons or fire
+  Armor: none, but cannot be affected by fire, electricity, or acid. It only suffers half damage from weapons or fire
   attacks if it becomes visible and takes on a semi-solid form (e.g. if dusted with the Powder of Ibn-Ghazi, or when
   feeding).
 
