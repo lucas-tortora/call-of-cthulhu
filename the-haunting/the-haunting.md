@@ -7,21 +7,20 @@ Son un grupo de investigadores paranormales que fueron citados por el Sr Knot a 
 "Buenas Tardes,
 
 Sere breve, ya que debo ir a mostrar una propiedad. A pesar de que la vida moderna avanza a pasos agigantados sobre
-todos
-nosotros, el mundo sigue plagado de supersticiones, cosa que de a momento me esta siendo sumamante inconveniente.
+todos nosotros, el mundo sigue plagado de supersticiones, cosa que de a momento me esta siendo sumamante inconveniente.
 Necesito que investiguen una de mis propiedades, la casa Corbitt en el centro. Los inquilinos anteriores, la famlia
 Macario, estuvieron involucrados en una terrible tragedia, y desde entonces no hemos podido siquiera alquilar la
 propieda, mucho menos venderla, ya que las viejas no paran de hablar de los viejos fantasmas, las maldiciones y vaya
 usted a saber que mas.
 
-Puedo ofrecerles $20 por dia, aqui tienen el primer dia por adelantdo.
+Puedo ofrecerles $25 por dia, aqui tienen el primer dia por adelantdo.
 
 ## Boston Globe
 
 El boston globe esta en el piso 30 de un rascacielos en el centro de boston.
 Los atiende Cindy, la recepcionista, [tirar APP or credit rating quien hable]
 
-* si pasan, con buena onda, les pregunta a quien vienen a ver?Hablen con Arty, el colorado ese.
+* si pasan, con buena onda, les pregunta a quien vienen a ver? Hablen con Arty, el colorado ese.
 * si no, les dice que las entregas son por la parte de atras, cerca de [la morgue](#la-morgue).Hablen con Arty, el
   colorado ese.
 
@@ -39,6 +38,7 @@ sale de un sotano.
 "Vaya vaya vaya, q lindo tener algo de compañia. Uno creeria que realmente esta lleno de cadeveres aqui con lo poco que
 me visitan. Digame, con que puedo ayudarlos? Quieren un cafe? Hay una maquina arriba, no es muy buena, pero si la
 golpeas en el lugar justo es gratis."
+
 Lo lamenta, pero los archivos estan cerrado al publico general. Como son los unicos registros, no podemos dejart que
 cualquiera este metiendo mano aqui. Les sorprenderia cuantas veces han servido en investigaciones criminales. Si estas
 paredes hablaran" dice sonriendo, y luego se pone palido.
@@ -75,7 +75,7 @@ conmemorativas, y unas grands puertas de metal, talladas con intrincados grabado
 discriminar.
 Una vez dentro, encuentran un sin fin de tomos de toddos los temas.
 
-1/2 dia por [LIbrary Use]. Cada dia los llama Knot para reclamar.
+1/2 dia por [Library Use]. Cada dia los llama Knot para reclamar.
 
 * 1835 un mercader prospero construye la casa, pero pronto cae enfermo y se la vende al Sr Walter Corbitt
 * 1852, Corbitt es demandado por sus vecinos a causa de sus habitos poco cristianos y inauspiciosos.
@@ -88,7 +88,7 @@ Una vez dentro, encuentran un sin fin de tomos de toddos los temas.
 Llegan a los archivos de la ciudad de boston. Un edificio gris, lleno de cubiculos y gabinetes, y mas gabinetes. Los
 reciben casi sin mirarlos, y les indican que los archivos publicos estan al fondo.
 
-1/2 dia por [LIbrary Use]. Cada dia los llama Knot para reclamar.
+1/2 dia por [Library Use]. Cada dia los llama Knot para reclamar.
 
 * Una corte civil muestra que el ejecutor del testamento de Corbitt fue el Reverendo Miguel Thomas, pastor de
   la [capilla de la contemplacion](#capilla-de-la-contemplacion) y la iglesia de nuestro señor de los secretos.
@@ -139,7 +139,7 @@ Se refiere a la casa como la casa Corbitt.
 * Roxbury? El viejo sanatorio, ya sabe, donde guardan a aquellos que bueno, la vida les fue muy real.
 * Los chicos estan con sus parientes, en Baltimore.
 
-## Sanatorio Roxbury
+## Sanatorio Roxbury 
 
 El santorio esta en un suburbio al norte de Boston. Grandes parques poblados de arboles que dejan caer sus hojas al
 viento otoñal rodean el viejo convento ahora transformado en El Sanatorio Roxbury hogar de cientos de pacientes
@@ -191,7 +191,7 @@ con los deseos de aquel que espera en la oscuridad”.
 Junto al diario hay un volumen enorme, escrito a mano en latín, pero tan podrido y carcomido por los gusanos que grandes
 secciones ya no pueden ser entendidas.
 
-* contiene pasajes sobre ocultismo en Lation [Latin > 50% o Roll] -> 2% Cthulhu Mythos
+* contiene pasajes sobre ocultismo en Latin [Latin > 50% o Roll] -> 2% Cthulhu Mythos
 
 ## Casa Corbitt
 
@@ -313,7 +313,7 @@ lesion. Pueden pushear, si fallan [1D6] de daño, por resbalar y caer al sotano.
 
 ** Si tienen exito, pueden ayudar a otros, dandoles 1 bonus dice. si pushea, lo lastima al caer.
 
-#### 1 - Almacen
+### 1 - Almacen
 
 En esta pequeña habitacion hay restos de herramientas, caños, basura, madera, clavos, tornillos, etc etc.
 
@@ -323,8 +323,7 @@ En esta pequeña habitacion hay restos de herramientas, caños, basura, madera, 
       el [Cuchillo de Corbitt](#cuchillo-de-corbitt) por [1d4+2].
     * Si tiene exito, ven al [Cuchillo de Corbitt](#cuchillo-de-corbitt) y lo pueden agarrar.
 
-* Si revisan las paredes, notan que tiene partes huecas. Si las rompen
-  ataca [Cuchillo de Corbitt](#cuchillo-de-corbitt).
+* Si revisan las paredes, notan que tiene partes huecas. Si las rompen ataca [Cuchillo de Corbitt](#cuchillo-de-corbitt).
 
 ### 2 - Cuarto de Carbon vacio
 
@@ -424,6 +423,15 @@ target, biting, and scratching as they do so.
 * Overwhelm (fighting maneuver) damage 2D6
 * Dodge 42% (Hard 21/Extreme 8)
 
+
+
+Nacho 65
+Lensio 65
+Darki 55
+Risco 50
+Nichi 40
+Corbitt 35
+
 ### Corbitt
 
 - **STR:** 90
@@ -435,11 +443,11 @@ target, biting, and scratching as they do so.
 - **APP:** 05
 - **EDU:** 80
 - **SAN:** 0 (ignore Sanity costs for spells)
-- **HP:** 16
+- **HP:** 0/16
 - **Damage bonus:** +1D4
 - **Build:** 1
 - **Move:** 8
-- **Magic points:** 18 (recover 1 per hour)
+- **Magic points:** 15/18 (recover 1 per hour)
 
 #### Roleplaying Hooks
 
@@ -470,7 +478,7 @@ target, biting, and scratching as they do so.
 - **Sleight of Hand:** 30%
 - **Stealth:** 72%
 
-**Armor:**
+**Armor:** 0/11
 
 - Each point of armor reduces the damage received by 1 point. Corbitt has cast Flesh Ward already. Roll 2D6 for his
   armor. Reduce his armor by one point for each point of damage he suffers.
