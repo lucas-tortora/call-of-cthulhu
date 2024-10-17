@@ -105,7 +105,7 @@ Larson se pierde rapidamente en la multitud, para cuando llegan a la entrada lo 
 huir. [spot hidden] Notan q no tiene patente.
 
 Si insitien en la persecucion o le tiran, sale un mafioso con una ametralladora para asegurarse que nadie los alcanze.
-[dodge] Si fallan 1D6 da;o.
+[dive for cover[dodge]] Si fallan 1D6 da;o.
 
 ##### Si no vuelven a investigar
 
