@@ -382,6 +382,28 @@
 
 ### Augustus Larkin
 
+#### Stats
+
+- **FUE** 45, **CON** 35, **TAM** 65, **DES** 45, **INT** 60
+- **POD** 50, **APA** 45, **EDU** 65, **SAN** 09*, **HP** 10
+- **DB**: 0 **Construcción**: 0 **Movimiento**: 7 **MP**: 10 **Suerte**: 50
+  *Larkin aún conserva un fragmento de humanidad.
+
+#### Combate
+
+- **Ataques por ronda**: 1
+- **Pelea**: 25% (12/5), daño 1D3 o arma
+- **Esquivar**: 22% (11/4)
+
+#### Habilidades
+
+- Encanto 45%, Crédito 60%, Cthulhu Mythos 27%, Charlatanería 70%, Intimidar 25%, Usar Biblioteca 25%, Escuchar 55%,
+  Persuasión 40%, Psicología 40%, Descubrir 40%, Sigilo 50%, Lanzar 30%.
+
+#### Idiomas
+
+- Inglés 65%, Kikuyu 15%, Español 30%, Swahili 25%.
+
 - Augustus Larkin, 32 años, es un recipiente involuntario de un mal antiguo.
     - Vínculo: los investigadores ven artículos sobre Larkin y su expedición en la prensa internacional (Carlyle Papers
       Peru #1).
@@ -433,9 +455,66 @@
       usual debido a la debilidad de Larkin.
     - Esto daría tiempo a los investigadores para actuar antes de que ocurra una catástrofe.
 
+#### Stats
+
+- **FUE** 60, **CON** 95, **TAM** 65, **DES** 95, **INT** 430
+- **POD** 500, **APA** 45, **HP** 16 **MP**: 100 **Suerte**: —
+
+#### Combate
+
+- **Ataques por ronda**: 1
+- **Pelea**: 90% (45/18), daño 1D3+1D4 o arma
+- **Esquivar**: 60% (30/12)
+
+#### Habilidades
+
+- Intimidar 99%, Escuchar 99%, Psicología 90%, Descubrir 99%, Lanzar 80%.
+
+#### Armadura
+
+- No tiene; Larkin puede ser asesinado por medios físicos normales. No se transforma en una forma monstruosa al morir.
+
+#### Hechizos
+
+- Nyarlathotep conoce todos los hechizos de los Mitos, usa *Sugerencia Mental* cuando es necesario.
+
+#### Pérdida de Cordura
+
+- Ninguna.
+
 ---
 
 ### Luis de Mendoza
+
+#### Stats
+
+- **FUE** 100, **CON** 90, **TAM** 65, **DES** 75, **INT** 30
+- **POD** 50, **APA** 50, **EDU** 20, **HP** 15 **MP**: 10 **Suerte**: 25
+
+#### Combate
+
+- **Ataques por ronda**: 1 (agarra/muerde, rasguños, golpes)
+    - **Agarre (maniobra)**: Sostiene y aprieta a la víctima, listo para succionar su vida. En la siguiente ronda, su
+      boca se adhiere al cuerpo de la víctima y succiona grasa, sangre y otros fluidos, devorando 1D10 FUE, 1D10 CON, y
+      1D4 TAM por ronda hasta que se sacia o se detiene (a 0 CON, la víctima muere).
+    - **Pelea**: 60% (30/12), daño 1D3+1D6
+    - **Esquivar**: 35% (17/7)
+
+#### Armadura
+
+- Regenera 1 punto de vida por ronda tras llegar a 0 puntos. Sólo puede ser matado mediante desmembramiento completo o
+  quemaduras. Incluso si es decapitado, puede recuperarse si encuentra su cabeza y la reatacha.
+    - Si se restaura la guardia que bloquea la conexión con el *Padre de los Gusanos*, pierde su capacidad de
+      regenerarse, marchitándose a razón de 1 punto de vida cada 10 minutos hasta desintegrarse en polvo.
+
+#### Hechizos
+
+- *Contactar con el Padre de los Gusanos (Nyarlathotep)*.
+
+#### Pérdida de Cordura
+
+- **0/1D6** puntos de cordura al ver a un kharisiri en su forma monstruosa o en el proceso de transformación. No se
+  pierde cordura al encontrarlos en forma humana.
 
 - Luis de Mendoza, uno de los conquistadores originales que descubrieron la pirámide en los Andes, ha pasado los últimos
   370 años como una abominación no-muerta impulsada por el hambre.
