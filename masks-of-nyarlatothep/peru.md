@@ -3,14 +3,14 @@
 ## BAr Cardano 18/03/21 19hs
 
 Augustus Larkin ha organizado una cena el 18 de marzo a
-  las 7 p.m. en el Bar Cordano, un restaurante y bar en el distrito de Lima. Será la primera vez que Larkin se encuentre
-  con los posibles miembros de la expedición cara a cara.
-    - El restaurante tiene un mobiliario sencillo pero de buen gusto, con paneles de madera, suelo de baldosas y
-      especialidad en mariscos. Larkin recomienda el escabeche.
-    - Al llegar, los investigadores son llevados a una mesa donde ya están sentados Larkin, Luis de Mendoza y Jesse
-      Hughes (alias Jackson Elias).
-    - Un éxito en [Psychology] detecta cierta animosidad o sospecha entre de Mendoza y Hughes.
-    - Keeper note: Elias usa el nombre falso de Jesse Hughes para evitar que Larkin lo reconozca.
+las 7 p.m. en el Bar Cordano, un restaurante y bar en el distrito de Lima. Será la primera vez que Larkin se encuentre
+con los posibles miembros de la expedición cara a cara.
+- El restaurante tiene un mobiliario sencillo pero de buen gusto, con paneles de madera, suelo de baldosas y
+especialidad en mariscos. Larkin recomienda el escabeche.
+- Al llegar, los investigadores son llevados a una mesa donde ya están sentados Larkin, Luis de Mendoza y Jesse
+Hughes (alias Jackson Elias).
+- Un éxito en [Psychology] detecta cierta animosidad o sospecha entre de Mendoza y Hughes.
+- Keeper note: Elias usa el nombre falso de Jesse Hughes para evitar que Larkin lo reconozca.
 
 - Larkin agradece a los investigadores por asistir y presenta a de Mendoza como su ayudante personal y a Hughes como un
   folclorista de Nueva York.
@@ -288,6 +288,252 @@ Augustus Larkin ha organizado una cena el 18 de marzo a
     - Si los investigadores lo matan, huyen y luego lo encuentran más tarde en la expedición, deben hacer una tirada
       de [Sanity] (0/1D6 de pérdida).
     - Si logran desmembrar o quemar a de Mendoza, entonces estará muerto definitivamente.
+
+## Puno
+
+### Actividades de los Kharisiri en Puno
+
+Hasta hace poco, los [kharisiri](#luis-de-mendoza) habían evitado Puno; eran de mente simple, pocos en número y
+relativamente distintivos. Era mucho más fácil y seguro para ellos buscar presas en áreas más remotas. Sin embargo,
+desde la llegada de [Larkin](#augustus-larkin), los kharisiri son más inteligentes y su mayor número ahora incluye a
+varios conversos de la población de Puno y las tierras circundantes. Esto los ha envalentonado, y aunque aún es raro que
+se alimenten de alguien en la ciudad misma, ocasionalmente sucede. Este aumento en la depredación ha hecho que la gente
+del área sea algo paranoica. La asociación entre los kharisiri y las personas de apariencia europea significa que los
+investigadores blancos pueden ser recibidos con sospecha, aunque es probable que solo se enfrenten a un peligro físico
+si ellos mismos causan problemas.
+
+En cualquier momento, puede haber hasta media docena de kharisiri operando en Puno. Están allí principalmente para
+alimentarse, aunque los más inteligentes vigilan las amenazas. Si los investigadores se encargaron
+de [Larkin](#augustus-larkin) en [Lima](#lima) pero dejaron a [de Mendoza](#luis-de-mendoza) lo suficientemente intacto
+como para regenerarse, él contacta a sus compañeros kharisiri en Puno por telégrafo, advirtiéndoles
+que [Jackson Elias](#jackson-elias) y varios de sus compañeros están en camino y representan un peligro para sus planes.
+Los investigadores podrían encontrarse siendo seguidos a donde vayan, aunque los kharisiri esperan a que los
+investigadores se dirijan a un lugar más aislado antes de atacar. Si esto ocurre, el Guardián debe hacer que el grupo
+atacante esté compuesto por un kharisiri por cada dos investigadores (ver perfiles de [kharisiri](#luis-de-mendoza),
+página 87).
+
+Dependiendo de cuánto tiempo pasen los investigadores en Puno, [de Mendoza](#luis-de-mendoza) podría tener tiempo de
+alcanzarlos. Si los investigadores creen que está muerto, verlo aparecer en Puno debería ser inquietante, especialmente
+si ocurre en un momento vulnerable. Alternativamente, el Guardián puede guardar el regreso de de Mendoza hasta que los
+investigadores lleguen a la pirámide (ver [Las Ruinas](#the-ruins), página 77), especialmente si acaban de restaurar la
+guardia (ver [El Pozo de la Inmundicia](#the-pool-of-filth), página 80).
+
+---
+
+### Encuentro con Nayra
+
+Si los investigadores no han logrado encontrar la ubicación exacta de la pirámide, [Jackson Elias](#jackson-elias) tiene
+un contacto en Puno que sabe mucho sobre la historia local, los mitos y las leyendas. [Nayra](#nayra), una yatiri (un
+tipo de curandera o sabia), lo ayudó en sus investigaciones sobre los kharisiri cuando visitó la zona a principios de
+año. En ese momento, descartó gran parte de lo que ella dijo como superstición, pero si ha visto evidencia de la
+verdadera naturaleza de [Larkin](#augustus-larkin) o [de Mendoza](#luis-de-mendoza) en Lima, ha cambiado de opinión.
+
+Elias sabe que Nayra vive en una pequeña casa en las colinas sobre Puno, pero sospecha (con razón) que podría estar
+escondida. Nayra le dijo a Elias que creía que la estaban siguiendo después de que los kharisiri supieran que estaba
+hablando con él. Al llegar a Puno y tras preguntar a algunos conocidos mutuos, Elias se entera de que Nayra se está
+quedando con amigos en una de las islas flotantes del Lago Titicaca. La isla flotante en la que Nayra se esconde está a
+unos 3 km de Puno. Allí viven siete pescadores y sus familias. Elias puede encontrar a alguien que le alquile una balsa
+de totora y sugiere remar hasta la isla, acompañado por al menos algunos de los investigadores para seguridad.
+
+Aquellos que viajen con Elias a ver a Nayra pueden intentar una tirada de [Descubrir](#spot-hidden) para notar que los
+están observando mientras se acercan a los muelles para abordar el bote. Una mujer de mediana edad y un
+adolescente—ambos convertidos recientemente en kharisiri—están merodeando casualmente, pero lanzan miradas furtivas
+hacia Elias. A menos que se les impida, roban sigilosamente un bote y siguen a Elias y sus compañeros hacia el lago.
+
+---
+
+### La Historia de Nayra sobre la Pirámide
+
+Una vez que Elias y los investigadores comparten los detalles de sus investigaciones en [Lima](#lima), Nayra puede
+proporcionar la ubicación precisa de la pirámide. También puede intentar responder preguntas que los investigadores
+tengan sobre los kharisiri, la pirámide o aspectos generales del folclore local. Nayra conoce una vieja historia sobre
+cómo un dios antiguo y malvado cayó del cielo y aterrizó en el Lago Titicaca. Salió arrastrándose y trajo consigo el
+hambre, devorando todo lo que tocaba. El héroe embaucador Ekeko le dijo al dios malvado dónde se encontraba la comida
+más nutritiva bajo tierra, mostrándole tubérculos y gusanos. Ekeko convenció al dios del cielo, tentado por la comida,
+para que se metiera en una vieja madriguera de armadillo. Luego colocó piedras sobre la madriguera, atrapando al dios
+debajo. Ekeko le dijo a la gente que ahora ese era un sitio sagrado y les hizo construir un templo sobre él, atándolo en
+su lugar con "hechizos trabajados en oro". El dios del cielo todavía vive bajo el templo hasta el día de hoy, y aquellos
+que lo conocen son lo suficientemente sabios como para evitar su tumba.
+
+Consecuentemente, pocas personas de Puno se acercan a la pirámide y el sitio ha sido en gran parte olvidado.
+
+### Viajando a través de las tierras altas
+
+El viaje hasta las ruinas toma alrededor de tres días a través del campo, unos 110 km al sur-sureste de [Puno](#puno). El paisaje entre ambos lugares es una mezcla de llanuras cubiertas de pasto, colinas, valles y pasos de montaña. Quizás el grupo tenga la suerte de ver un cóndor andino, un oso de anteojos, o incluso la rápida silueta de un jaguar. Un investigador descansando podría sorprenderse al encontrar una anaconda de 9 metros deslizándose por los arbustos junto a su cabeza.
+
+Incluso a finales del verano, la temperatura desciende por debajo del punto de congelación por la noche. Los investigadores que no hayan traído carpas adecuadas, ropa de abrigo o mantas pesadas deberán hacer una tirada de **Supervivencia (Montañas)** o sufrir 1 punto de daño (por noche) debido al frío; el daño podría aumentar a 1D2+1 puntos si no piensan en hacer una fogata, aunque [Elias](#jackson-elias) seguramente sugerirá hacer una fogata debido a su experiencia previa en estas tierras.
+
+Los siguientes encuentros—Los Kharisiri Salvajes, Los Granjeros y Viajeros—pueden ocurrir en el orden presentado o como el Guardián lo desee. Eventualmente, cuando el Guardián lo considere adecuado, el grupo debería llegar a [Las Ruinas](#the-ruins) (página 77).
+
+---
+
+### Los Kharisiri Salvajes
+
+En la primera noche, alrededor de las 3 a.m., un kharisiri encuentra el campamento de los investigadores. Uno de los pocos kharisiri que no ha conocido a [Larkin](#augustus-larkin), su inteligencia no ha sido restaurada, por lo que es poco más que un cazador bestial: un viejo conquistador, con el pelo largo y enmarañado, vestido con harapos sucios. Lo más probable es que los investigadores lo huelan antes de verlo.
+
+Si los investigadores han encendido una fogata, el kharisiri salvaje se mantiene en las sombras, acechando cerca y esperando una oportunidad para atacar. Aunque preferiría cenar un humano dormido, solo lo hará si hay un objetivo fácil separado del resto del grupo. De lo contrario, se acerca sigilosamente y se alimenta de un animal de carga (suponiendo que los investigadores los estén utilizando). Cualquier investigador que esté despierto cuando ocurra el ataque puede hacer una tirada de **Escuchar** para detectar a la criatura; los investigadores dormidos pueden despertarse si logran una tirada de **Escuchar Difícil**. Si el ataque pasa desapercibido, los investigadores se encontrarán sin un animal de carga a la mañana siguiente, lo que posiblemente los obligue a dejar algunos suministros. Usa el perfil del kharisiri con la puntuación de INT más baja, página 87.
+
+---
+
+### Los Granjeros
+
+En el segundo día, los investigadores escuchan sonidos de disparos adelante, provenientes de más allá de una colina. Desde la cima de la pendiente, se pueden ver dos figuras humanas a unos 800 metros de distancia, al otro lado de la colina. Se trata de [Julio y Domingo Céspedes](#julio-cespedes), un padre y su hijo, que han estado buscando una alpaca perdida. Un par de kharisiri los atacó hace varios minutos (el mismo par descrito en [Viajeros](#viajeros), a continuación). Julio logró ahuyentarlos con su rifle, pero no antes de que una de las criaturas succionara gran parte de la grasa corporal de su hijo. Domingo está tirado en el suelo, su camisa rasgada y cubierta de sangre, con una herida abierta en el pecho.
+
+Julio conoce las leyendas de los kharisiri, por lo que reconoció a quienes los atacaron. También sabe que los kharisiri suelen parecer hombres de ascendencia europea. Si uno o más investigadores blancos se acercan, asume que son más kharisiri que han venido a terminar con él y su hijo. A menos que los investigadores logren calmarlo con una tirada exitosa de **Encanto**, **Charlatanería**, o **Persuadir** (en español), disparará con su rifle para mantenerlos alejados, disparando activamente solo a los objetivos que se acerquen demasiado. Antes de que la situación empeore, [Elias](#jackson-elias) podría intervenir para calmar al granjero, quizás otorgando un dado de bonificación a la tirada de habilidad social de un investigador o actuando como traductor.
+
+Con la situación resuelta, Julio acepta cualquier ayuda que los investigadores puedan ofrecer a su hijo. También puede señalar la dirección hacia la que se dirigían los kharisiri: hacia la pirámide.
+
+---
+
+### Viajeros
+
+En el tercer día, mientras los investigadores se acercan a su destino, haz que intenten una tirada de **Descubrir**; si tienen éxito, verán a dos kharisiri moviéndose entre la hierba alta a unos 800 metros de distancia, en el fondo de un valle.
+
+Uno de ellos es [Pedro de Velasco](#luis-de-mendoza), uno de los conquistadores originales, vestido con ropa ligera de algodón. Su compañera es una joven de Puno, llamada [Narcisa Quispe](#narcisa-quispe), a quien recientemente convirtió. Están viajando hacia la pirámide para ofrecer el contenido de sus estómagos al *Padre de los Gusanos*.
+
+Si los investigadores deciden atacar o asustar a los kharisiri, deberán pasar una tirada combinada de **CON** y **Navegación** para alcanzar a los monstruos; si fallan, los investigadores estarán cansados y se perderán, lo que significa que llegarán a las ruinas al caer la noche.
+
+---
+
+## Las Ruinas
+
+Sobre una meseta desierta se alza una pirámide antigua; bajo las piedras en descomposición, una cosa de oscuridad espera. Las ruinas que contienen la pirámide están situadas en una meseta que domina un profundo valle azotado por el viento. El terreno circundante es árido y la vida vegetal es escasa. La meseta es más fácilmente accesible desde arriba, trepando por el borde de un pico vecino y descendiendo por un estrecho sendero. Este camino es lo suficientemente precario como para dificultar llevar animales de carga hasta las ruinas, requiriendo una tirada de **Montar**, **Manejo de Animales**, o **Supervivencia (Montañas)** para hacerlo con éxito.
+
+### La Vista desde Arriba
+
+Desde arriba, se pueden distinguir algunas características clave de las ruinas. Un muro de piedra rodea el sitio; es difícil saber qué tan alto fue originalmente, ya que ahora está parcialmente enterrado por sedimentos, pero las partes visibles sobresalen del suelo a alturas de aproximadamente 2 a 4 metros. Es relativamente fácil trepar por el muro perimetral, escalando una de las pendientes de tierra y dejándose caer del otro lado, lo que evita la necesidad de una tirada de **Trepar**. Alternativamente, hay una entrada principal, en forma de un portal rectangular flanqueado por enormes piedras y coronado por una escultura de piedra desgastada. La escultura parece representar una cabeza humana, pero es delgada y alargada, con una boca grotescamente distendida. Una tirada exitosa de **Arqueología** indica que el diseño de las estructuras se asemeja al del sitio de [Tiwanaku](#tiwanaku) en el lado sur del lago Titicaca, al otro lado de la frontera con Bolivia. Hay algunas diferencias, especialmente en las formas de las cabezas de piedra, pero las similitudes sugieren que fueron construidas por el mismo pueblo. La distancia de 96 km desde Tiwanaku sugiere que este sitio estaba destinado a estar alejado de sus principales ciudades.
+
+A menos que los investigadores hayan matado o incapacitado a los dos kharisiri que estaban viajando hacia las ruinas ([Viajeros](#viajeros), página 77), pueden verse dentro de las murallas. Uno asciende los escalones de la pirámide mientras el otro espera abajo. Cuando el kharisiri llega a la cima, se acerca a lo que parece una grieta en la piedra y se arrodilla ante ella, luego procede a vomitar un chorro de espeso fluido blanco en el agujero. Esto dura alrededor de un minuto. Una vez que el primer kharisiri ha terminado de alimentar a su dios, desciende y el segundo sube para repetir el proceso. Ambos parecen significativamente más demacrados después de realizar su ofrenda. Después de vomitar, caminan hacia el otro lado de la pirámide y desaparecen de la vista.
+
+**Nota para el Guardián:** los kharisiri caminan hacia [El Pozo de los Cadáveres](#el-pozo-de-los-cadaveres) y se arrastran entre los cadáveres hasta la entrada del túnel, donde se dirigen a [La Cámara](#la-camara) (página 79) para descansar.
+
+### Dentro de las murallas
+
+La estructura principal es una pirámide escalonada con una gran cima plana (ver más adelante), la mayor parte de la cual está por debajo del nivel del suelo. Alrededor de esta se encuentra una red de murallas internas desmoronadas, muchas de las cuales han colapsado con el tiempo. Varios de estos muros están decorados con arcos, insinuando las ruinas de otras estructuras. Versiones más pequeñas de la cabeza tallada sobre la entrada principal están incrustadas en las paredes a intervalos regulares. El constante viento sopla a través de sus bocas distendidas, produciendo el inquietante sonido de silbido que los investigadores escucharon al acercarse.
+
+El suelo dentro de las murallas es irregular, con montículos de sedimentos arrastrados por el viento que forman pequeñas dunas. Una de estas dunas cubre un pozo vertical que desciende hacia los túneles subterráneos, cubierto por una losa de piedra rota, que puede encontrarse con una tirada exitosa de **Arqueología** o una tirada difícil de **Descubrir**. Con éxito en cualquiera de las dos tiradas, también se detectan otros pozos verticales similares alrededor del sitio, cada uno cubierto por una losa intacta. Si los investigadores realizan una búsqueda minuciosa pero fallan estas tiradas, haz una tirada de grupo de **Suerte**: si fallan, el investigador con la menor Suerte tropieza con la losa rota y cae por el pozo, descendiendo unos 4.5 metros y sufriendo 1D6 puntos de daño. Esto también podría ser consecuencia de una tirada empujada fallida al buscar en el sitio. Si los investigadores pasan la tirada de grupo de Suerte, uno de ellos casi cae pero se recupera a tiempo, revelando la presencia del pozo. Entrar en cualquiera de estos pozos lleva a los investigadores a [Las Chimeneas y Los Túneles](#las-chimeneas-y-los-túneles).
+
+---
+
+### La Pirámide
+
+La estructura está mayormente sumergida en la tierra, con solo sus cinco escalones superiores sobre el nivel del suelo. Los escalones de la pirámide están hechos de piedra toscamente labrada, desgastada y agrietada por el tiempo. Cada escalón tiene una altura de unos 1.5 metros, lo que obliga a cualquiera que suba a trepar un escalón a la vez. Una grieta larga y estrecha cruza diagonalmente la cima de la pirámide, con un ancho máximo de 8 cm en su punto más amplio. El olor a podredumbre es abrumador aquí, y las moscas zumban constantemente alrededor de la grieta. Un investigador que realice una tirada exitosa de **Escuchar** detecta un sonido burbujeante y viscoso que proviene de las profundidades. Si los investigadores desean ensanchar la grieta o mirar dentro, ver [El Padre de los Gusanos](#el-padre-de-los-gusanos), página 82.
+
+---
+
+### El Pozo de los Cadáveres
+
+En el lado opuesto de la pirámide, no visible desde el punto de entrada de los investigadores, hay un gran pozo de aproximadamente 4.5 metros de lado y 3 metros de profundidad, lleno de restos humanos. A medida que los investigadores navegan alrededor de las ruinas, el zumbido de las moscas y el hedor de la descomposición se intensifican a medida que se acercan a este osario. Todos los cuerpos dentro del pozo están demacrados. Muchos parecen haber estado aquí durante años, ya que son esqueléticos o solo tienen fragmentos de carne seca. Más cerca de la parte superior, los cadáveres son más recientes. Una tirada exitosa de **Descubrir** revela la silueta de una entrada de túnel en la pared del pozo, visible a través de los restos; además, el observador nota destellos de algo dorado en el fondo del pozo (son algunas monedas de oro y joyas sueltas dejadas caer por los kharisiri mientras disponían de los cuerpos aquí). Para llegar a [Los Túneles](#los-túneles), los investigadores deben trepar al pozo y abrirse paso entre los cuerpos (sin tirada), moviendo los restos a medida que avanzan; tal actividad provoca una tirada de **Cordura** (pérdida de 1/1D4).
+
+---
+
+### Los Túneles
+
+Una pequeña red de túneles corre bajo las ruinas, a una profundidad de aproximadamente 30.5 metros. Estos túneles tienen paredes revestidas con losas de piedra. Rodean la base de la pirámide, con túneles laterales que conducen a [La Cámara](#la-cámara) (página 79) y [El Pozo de los Cadáveres](#el-pozo-de-los-cadáveres). Todos estos túneles tienen una altura de aproximadamente 1.2 metros y un ancho de 3 metros, obligando a cualquiera que se mueva por ellos a avanzar a gatas. Hacerlo es lento, ya que los pisos del túnel están cubiertos de polvo y fragmentos de piedra rota; cualquier persona que avance sin precaución corre el riesgo de lacerarse las manos y rodillas (1D3 de daño si falla una tirada de **DES**). También hay ocasionales grupos de pequeñas estalactitas colgando del techo, donde el agua que gotea ha dejado depósitos de piedra caliza. El olor a descomposición en los túneles es abrumador y el aire está lleno de moscas. A menos que un investigador cubra su nariz y boca con algo que enmascare el olor, debe hacer una tirada de **CON** para evitar sentirse nauseado y recibir un dado de penalización en todas las tiradas hechas mientras esté en los túneles durante los próximos 10 minutos (después de eso, se acostumbran al olor). A continuación se detallan ubicaciones específicas en los túneles.
+
+---
+
+### Las Chimeneas
+
+Son pozos verticales de unos 4.5 metros de profundidad, que ascienden hasta la superficie, revestidos con el mismo tipo de losas de piedra que forman las paredes del túnel. El fondo de estos pozos es plano pero tienen salidas que se conectan hacia abajo, en un ángulo de 60 grados, con la red principal de túneles a unos 26 metros por debajo. Una losa cubre la parte superior de cada chimenea, aunque una de estas losas está rota. Descender de manera controlada requiere una tirada de **Trepar** si no se utiliza una cuerda (una tirada de **Saltar** puede ser posible a discreción del Guardián). Caer por uno de los pozos inflige 1D6 puntos de daño. Subir por una chimenea sin usar una cuerda requiere una tirada difícil de **Trepar**.
+
+---
+
+### La Cámara
+
+Esta sala fue originalmente utilizada por los constructores de la pirámide para trabajar y confeccionar la inlay dorada que recubre las paredes internas que rodean la base. Desde entonces, la cámara ha sido tomada por los kharisiri. Aquí duermen después de vomitar sus ofrendas a su dios, y también depositan cualquier objeto de valor tomado de sus víctimas. A menos que los investigadores hayan matado o ahuyentado a los dos kharisiri que vieron dirigirse al lugar ([Viajeros](#viajeros), página 77), ahora están dormidos en las esteras, tan inmóviles como cadáveres. Son indefensos en este estado y pueden ser asesinados o incapacitados sin riesgo—salvo que los investigadores busquen activamente despertarlos primero, en cuyo caso los kharisiri lucharán pero estarán aturdidos por el sueño (aplica un dado de penalización a sus tiradas de combate).
+
+La cámara es una sala de piedra sencilla de aproximadamente 6 por 6 metros. Hay tres esteras de junco sucias en el suelo, utilizadas como camas por cualquier kharisiri que pase por allí. El resto de la sala está llena de una colección de monedas, joyas, relojes y artefactos antiguos, que van desde lo contemporáneo hasta lo preincaico. Muchos de los artículos son de oro, mezclados con una variedad de baratijas sin valor. Llevarse estos objetos no tiene efecto en la entidad debajo de la pirámide ni en su prisión; son simplemente objetos saqueados reunidos instintivamente por sus sirvientes por avaricia.
+
+---
+
+### La Base de la Pirámide
+
+La base de la pirámide está completamente rodeada de túneles, cuyas paredes internas están revestidas con inlay de oro, similar a la sección encontrada en la universidad ([El Sello Dorado](#el-sello-dorado), página 68). El inlay es ininterrumpido, martillado en una forma continua alrededor del perímetro de la pirámide—con la excepción de la sección dañada por [de Mendoza](#luis-de-mendoza) y sus asociados (ver [El Pozo de la Inmundicia](#el-pozo-de-inmundicia), cercano). Los depósitos de piedra caliza y el polvo ocultan gran parte del brillo del oro.
+
+Si los investigadores son lo suficientemente tontos (o codiciosos) como para remover más partes del revestimiento, esto debilita aún más las protecciones que mantienen al Padre de los Gusanos en su lugar. Dañar una sección provoca lo que parece ser un pequeño terremoto, ya que la entidad se agita y se retuerce dentro de su prisión, con rocas y polvo cayendo del techo bajo. Más daño provoca que las grietas se extiendan tanto en los túneles como en las paredes de la pirámide, posiblemente filtrando líquido blanco rancio y larvas en los túneles. Los investigadores deben hacer una tirada de **Suerte grupal** en este punto, con un fallo que indica que se han liberado 1D3 larvas (ver **Larva Kharisiri**, página 88). Una tirada de Suerte grupal pifiada indica que el túnel se derrumba alrededor de los investigadores, causando 1D8 puntos de daño (evitable con una tirada exitosa de **Esquivar** o **Saltar**) y atrapando a cualquiera presente hasta que puedan desenterrarse, lo que les tomará entre 1D4+1 horas.
+
+
+----
+
+### El Montón de Trapos
+
+Visto desde la distancia, este cadáver momificado parece ser solo un montón de trapos, palos y otros desechos. Una vez que un investigador se encuentra a unos 6 metros del cadáver, su verdadera naturaleza se vuelve evidente. El cuerpo está envuelto en lana y algodón en descomposición, aunque están demasiado podridos y sucios como para identificar prendas específicas.
+
+Al acercarse, los investigadores pueden intentar una tirada de **Descubrir**: un éxito revela algo blanco y brillante moviéndose en la cuenca del ojo del cráneo. Se trata de una de las larvas del dios. Aunque el cuerpo está demasiado deteriorado para que la larva lo convierta en un kharisiri, aún puede animar a la momia. Los investigadores que noten el cuerpo y luego regresen al lugar más tarde pueden intentar una tirada de **INT** o **Descubrir** para notar que ha cambiado de posición ligeramente.
+
+Si un investigador se acerca demasiado a la momia, esta intentará agarrarlo. Su objetivo es mantener al investigador en su lugar el tiempo suficiente para que la larva entre en su cuerpo, aunque está bastante feliz de herir al investigador en su intento de someterlo (ver **Momia Animada**, página 88). Si el investigador destruye la momia, deberá hacer una tirada de **Suerte**: fallar indica que ha dañado el cráneo lo suficiente como para liberar a la larva y ahora deberá lidiar con sus intentos de poseerlo (ver **Larva de Kharisiri**, página 88).
+
+**Nota para el Guardián:** Realísticamente, un cuerpo no se momificaría en presencia de agua goteando y moscas carroñeras. Sin embargo, parece una oportunidad perdida no tener una momia para amenazar a los investigadores en la pirámide. Si esto puede interferir con la suspensión de incredulidad de tu grupo, puedes ignorar este encuentro o tener la larva acechando dentro del cráneo de un esqueleto mohoso e inanimado.
+
+---
+
+### El Pozo de Inmundicia
+
+Cuando de Mendoza y sus compañeros removieron una sección del revestimiento de oro, el avatar encarcelado en la pirámide se agitó lo suficiente como para dañar las paredes y el corredor circundantes. Ahora, hay una grieta de 5 cm de ancho en la pared, que corre a través del hueco donde solía estar la incrustación faltante, y baja hasta el suelo del túnel. El piso fue especialmente dañado, creando un agujero de 3 metros de ancho por 1,2 metros de profundidad en su punto más bajo. Este agujero ahora está lleno de una piscina de grasa blanca y rancia que ha rezumado por la grieta a lo largo de los años. El hedor a descomposición es casi insoportable. La superficie de la piscina se mueve constantemente, ya que tres larvas se retuercen bajo la superficie. Estas larvas no saldrán de la piscina a menos que se las obligue, pero mostrarán interés en cualquiera que entre imprudentemente en ella.
+
+---
+
+### El Pozo de Inmundicia y el Revestimiento Dañado
+
+Debido a la anchura de la piscina, es imposible acceder a la sección de la pared donde falta la incrustación sin atravesar la inmundicia acumulada. Los investigadores que deseen evitar esto tendrán que encontrar soluciones creativas. Si tienen los materiales adecuados para improvisar un puente o plataforma, el Guardián debería pedir una tirada de **Reparar Mecánica**, con un fallo catastrófico o un fallo al forzar la tirada que lleva a uno o más investigadores a caer en la piscina. Alternativamente, los investigadores pueden optar por incendiar la piscina. La grasa dentro es altamente inflamable y prende fuego fácilmente. En segundos, emite densas nubes de humo negro, lo que dificulta la respiración de cualquiera que esté cerca. Los investigadores en el corredor que rodea la piscina en llamas deben hacer una tirada de **CON Difícil** para evitar perder el conocimiento durante 1D6 rondas. El fuego arde durante aproximadamente una hora, con humo saliendo de cualquier chimenea descubierta, dejando solo un residuo espeso y alquitranado en el agujero cuando se extingue.
+
+**Nota para el Guardián:** no hagas una tirada de **CON** para Jackson Elias, quien logra mantenerse consciente rápidamente envolviendo un trapo alrededor de su rostro y permaneciendo cerca del suelo. Luego puede asegurarse de que cualquier investigador inconsciente sea arrastrado a un lugar seguro.
+
+---
+
+Reparar el revestimiento dañado es relativamente simple si los investigadores han traído consigo la sección faltante. Deben limpiar el agujero, removiendo capas de inmundicia y depósitos de cal—el Guardián solo debería pedir una tirada de **FUE** si los investigadores están operando bajo presión de tiempo, y aún así, un fallo solo significa que el proceso toma más tiempo del deseado. Con un poco de esfuerzo, pueden asegurar la sección faltante en su lugar, martillando o simplemente encajando la incrustación en posición.
+
+Si los investigadores no tienen el segmento faltante, pueden intentar fabricar uno. Es posible determinar la forma requerida por el hueco en la pared y luego recrearla usando oro tomado de [La Cámara](#la-camara), página 79. Crear e instalar esta incrustación improvisada requiere una tirada exitosa de **Arte/Oficio** en una disciplina adecuada, como la orfebrería, o una tirada de **Reparar Mecánica Difícil**.
+
+---
+
+Una vez que el revestimiento ha sido reparado, el Padre de los Gusanos queda completamente contenido de nuevo. Sus larvas ya no pueden escapar a través de las grietas y su conexión con los kharisiri se rompe. En el transcurso de las siguientes horas, todos los kharisiri se marchitan y mueren. Los más viejos se desintegran primero, encogiéndose y desecándose en polvo. Idealmente, el Guardián debería permitir que los investigadores presencien al menos una de estas muertes, posiblemente cuando un kharisiri llega a las ruinas para presentar una ofrenda a su dios, o cuando de Mendoza (si aún está vivo) aparece tras haber acechado a los investigadores hasta la pirámide. Los kharisiri no tienen idea de lo que les está ocurriendo y reaccionan con miedo y confusión, suplicando a su dios que los salve.
+
+### El Padre de los Gusanos
+
+Es altamente improbable que los investigadores se encuentren directamente con el Padre de los Gusanos. Aún dañado, la protección que ofrece el revestimiento dorado lo mantiene a raya, y la grieta en la parte superior de la pirámide es demasiado estrecha para permitir más que un atisbo fugaz.
+
+A pesar de esto, los investigadores decididos pueden ensanchar las grietas en la prisión con explosivos o dañando el revestimiento protector o, en un juego pulp, utilizar habilidades psíquicas o ciencia extraña para mirar dentro del oscuro interior. Esto podría permitirles vislumbrar las entrañas de la pirámide, captando una imagen de la monstruosidad antigua atrapada en la oscuridad. El dios es una masa fluida y burbujeante de materia blanca podrida y coagulada. Se retuerce incesantemente, plegándose sobre sí mismo, con burbujas de podredumbre formándose constantemente en su superficie iridiscente. Nódulos de su carne se desprenden y reptan a través de la masa como gusanos, para luego ser reabsorbidos. El fondo de su prisión está lleno de larvas y las cáscaras de sus pupas, con moscas adultas zumbando en el aire a su alrededor. El hedor es insoportable para los humanos, incapacitando a cualquiera que lo huela con náuseas durante 1D10 rondas, a menos que superen una tirada de **CON Extrema**. Ver al dios en todo su horror provoca una tirada de **Cordura** (1D6/1D20 de pérdida).
+
+En el extremadamente improbable caso de que los investigadores persistan lo suficiente como para liberar al dios completamente, utiliza el perfil del Padre de los Gusanos en la página 89.
+
+---
+
+### El Destino de Larkin
+
+Si Larkin sigue vivo y ha viajado a la pirámide con los investigadores, es comprensible que esté ansioso por evitar que sus compañeros frustren sus planes. Inicialmente, esto toma la forma de avivar el fuego de la codicia, recordándoles a los investigadores y a Elias cuánto oro hay en las ruinas y cómo los hará ricos. Plantea estas tentaciones en términos de interés arqueológico, hablando de cuán bien recompensados estarán si logran llevar más de las extrañas obras de oro a Lima y lo valiosas que serán para los museos de todo el mundo.
+
+A pesar de su determinación por convencer a los investigadores de hacer su voluntad, Larkin tiene limitaciones en cuanto a lo que puede hacer directamente. La presencia del revestimiento le impide siquiera entrar en los túneles y observar lo que los investigadores están haciendo allí. Si se le pregunta sobre esto, pone excusas sobre su mala salud y lo mucho que lo ha cansado el viaje, diciendo que necesita descansar. Si eso no convence a los investigadores, alega claustrofobia como la verdadera razón de su renuencia a ir bajo tierra (una tirada exitosa de **Psicología** muestra que está mintiendo).
+
+La principal opción disponible es que Nyarlathotep tome control de Larkin y, por lo tanto, influya directamente en los investigadores. Para que esto funcione, necesita esperar a que algún investigador se separe del grupo. Luego lanza el hechizo **Sugerencia Mental** (ver el **Manual de La Llamada de Cthulhu**, página 260) sobre el investigador aislado, ordenándole que vaya y destruya el revestimiento. Larkin/Nyarlathotep intenta esto tantas veces como puede. Eventualmente, sin embargo, este enfoque corre el riesgo de atraer atención, y cuando lo hace, el fragmento de Nyarlathotep dentro de Larkin se defiende contra los otros investigadores mientras sus nuevos peones terminan la tarea. Consulta la sección **Jugando a Larkin como Nyarlathotep** en la página 59 para obtener orientación sobre cómo manejar esta situación.
+
+Este enfrentamiento presenta una oportunidad para que Elias ayude a los investigadores. Podría, por ejemplo, encontrarse con Larkin intentando lanzar la **Sugerencia Mental** sobre uno de los investigadores e interrumpir el proceso. Si Larkin/Nyarlathotep comienza a lanzar otros hechizos peligrosos, Elias no dudará en dispararle. Sin embargo, el Guardián debe evitar que Elias mate a Larkin directamente, dejando su destino en manos de los investigadores. Como se mencionó anteriormente, matar a Larkin no lo transforma en una forma monstruosa de Nyarlathotep. Este es un débil recipiente humano, no una encarnación completa del dios. Si es posible, el Guardián debería hacer que el moribundo Larkin agradezca a los investigadores con su último aliento por liberarlo de su tormento.
+
+---
+
+### Conclusión
+
+Si los investigadores logran reparar el revestimiento de la pirámide, el culto de los kharisiri muere casi de inmediato, aunque pasarán meses antes de que la mayoría de las personas se den cuenta de que los kharisiri ya no acechan en las tierras altas. Aun así, el mito persiste, y las generaciones futuras creen que los relatos no son más que fragmentos de viejas leyendas, en lugar de advertencias sobre un peligro real. La amenaza del Padre de los Gusanos ha terminado, por ahora.
+
+Por otro lado, si los investigadores no logran reparar el revestimiento o incluso deciden dañarlo más, el culto permanece intacto y continúa extendiéndose. Si Larkin o de Mendoza también sobreviven, instruyen a los kharisiri para que monitoreen a los investigadores y esperen el momento oportuno para atacar. Los investigadores que tomaron acciones violentas contra el culto son blanco de muerte. El culto busca reclutar a aquellos que saben demasiado implantando larvas frescas en ellos. Por supuesto, si los investigadores escapan rápidamente de Perú, quedan libres de peligro y de la influencia del culto, aunque pueden soñar con pulsantes y retorciéndose gusanos durante un tiempo considerable. Si el Guardián lo desea, el Padre de los Gusanos podría hacer una reaparición más adelante en la campaña, para atormentar y acosar a los investigadores en visiones, sueños y apariciones medio vislumbradas (cada vez que vean gusanos, un escalofrío recorre la columna vertebral de los investigadores).
+
+Elias escribe sobre su experiencia en Perú en **Los Muertos Hambrientos** (1923), omitiendo algunos de los elementos más extraños por considerarlos demasiado inverosímiles para su audiencia. A partir de este trabajo, Elias decide investigar más a fondo los antecedentes de Larkin. Esto lo lleva a la pista de M’weru, la Lengua Sangrienta y, finalmente, la Expedición Carlyle, tal como se explora en el resto de la campaña.
+
+Durante los próximos cuatro años, Elias mantiene contacto con los investigadores, enviándoles cartas y sugiriendo que podría necesitar su ayuda nuevamente en el futuro. Esto podría brindarle al Guardián oportunidades para que los investigadores se unan a Elias en nuevas aventuras, aunque estas probablemente no deberían estar relacionadas con el resto de la campaña para evitar el riesgo de alterar sus fundamentos antes de que comience. Elias puede dejar caer algunas pistas sobre su nuevo trabajo, pero guarda la mayor parte de los detalles hasta estar seguro de lo que ha descubierto; las consecuencias de esto se detallan en el capítulo de América.
+
+---
+
+### Recompensas
+
+A menos que el Guardián elija continuar este capítulo con otro escenario preludio de una fuente diferente o de su propia creación, los investigadores deberían tener tiempo suficiente para recuperarse antes de que comience la campaña principal. Otorga a los jugadores una fase de desarrollo de investigadores al concluir Perú (consulta **Recompensas**, página 162, América). Además, aplica las siguientes recompensas a los investigadores que sobrevivan.
+
+- Matar o derrotar a Luis de Mendoza: +1D6 puntos de Cordura.
+- Matar o derrotar a Augustus Larkin: +1D4 puntos de Cordura.
+- Liberar a Augustus Larkin del control de Nyarlathotep: +1D6 puntos de Cordura.
+- Restaurar el revestimiento de la pirámide y destruir a los kharisiri: +1D8 puntos de Cordura.
+- Causar la muerte de Nayra: –1D4 puntos de Cordura.
+- Liberar al Padre de los Gusanos: –1D20 puntos de Cordura.
 
 ## NPCs
 
