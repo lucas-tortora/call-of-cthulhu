@@ -497,9 +497,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Confidencialidad**: Los detalles del testamento y la investigación deben manejarse con discreción para evitar atraer atención no deseada.
 
-
-
-### Reunión con la Srta. Carlyle
+## Reunión con la Srta. Carlyle
 
 ### NPCs
 
@@ -653,7 +651,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 ---
 
-## Reunión con el Profesor Anthony Cowles
+## Anthony Cowles
 
 ### NPCs
 
@@ -704,6 +702,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
   - MacWhirr enfrentó ataques de aborígenes similares al culto del murciélago.
 
 - **Historia del Murciélago de Arena y la Serpiente Arcoíris**:
+    cerca del Mar de Arafura, en el norte de Australia. En ella, Murciélago de Arena, también conocido como el Padre de Todos los Murciélagos, se enfrenta en una batalla de ingenio con la Serpiente Arcoíris, la deidad aborigen del agua y patrona de la vida. La Serpiente Arcoíris logra engañar y atrapar a Murciélago de Arena y a su clan en las profundidades de un lugar acuático, desde donde solo pueden quejarse y no pueden regresar para molestar a la gente.
 
   - Relato aborigen donde la Serpiente Arcoíris engaña y atrapa al Murciélago de Arena.
 
@@ -741,7 +740,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Información sobre Ju-Ju House**:
 
-  - Emerson es el agente para Ahja Singh, cuyo único cliente en EE.UU. es Ju-Ju House.
+  - Emerson es el agente para Ahja Singh de Mombasa, cuyo único cliente en EE.UU. es Ju-Ju House.
 
   - Advierte a los investigadores sobre N'Kwane, mencionando que le pone la piel de gallina.
 
@@ -808,8 +807,14 @@ The library offers an opportunity for roleplay, including breaking into a **part
 #### Reunión con Millie Adams
 
 - La reunión se lleva a cabo en el **Teatro Lafayette** para mayor discreción.
+- 
+- [group luck] to see if followed.
+  - [hard spot hidden] to spot and start chase
 
 - Millie está inicialmente cautelosa. Gana su confianza compartiendo detalles sobre Elias y mostrando genuino interés en ayudar. Requiere una tirada exitosa de [Hard Charm] o [Persuade].
+
+Investigo juju house desde enfrente, pero temnio ser vista/.
+[psycology] esconde algo, tiene miedo de q la maten.
 
 - **Lo que Millie Sabe**:
 
@@ -837,7 +842,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - Confirman las sospechas sobre las desapariciones y el patrón lunar.
 
-  - Mencionan una tira de tela roja arrancada de una máscara del atacante, que la policía confiscó.
+  - Mencionan una tira de tela roja q saco hilton en una pelea arrancada de una máscara del atacante, que la policía confiscó.
 
   - **Ju-Ju House** y **Mukunga M'Dari** son figuras clave.
 
