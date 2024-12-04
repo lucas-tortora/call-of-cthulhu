@@ -1126,4 +1126,126 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 ---
 
-**Nota**: Adaptar estas notas según las acciones y decisiones específicas de los jugadores durante la partida. Es importante equilibrar el desafío y permitir que los jugadores sientan que sus elecciones tienen impacto en el desarrollo de la historia.
+
+# NPCs
+
+### Principales
+
+#### Teniente Martin Poole, 43 años, detective de homicidios
+
+- **Enlace**: detective a cargo de investigar el asesinato de Elias (ver [La Policía de Nueva York](#la-policía-de-nueva-york)).
+- **Enlace**: mencionado en relación con una serie de asesinatos similares (ver [Un Hombre Inocente](#un-hombre-inocente)).
+
+Como un detective de homicidios con muchos años de servicio en el Precinto 7a en Chelsea, el Teniente Poole ha visto lo peor que Nueva York tiene para ofrecer. Aun así, el asesinato de Jackson Elias lo ha sacudido; en parte por su brutalidad y en parte por su similitud con una serie de asesinatos que él creía resueltos (ver [Un Hombre Inocente](#un-hombre-inocente)). Poole podría ser un reemplazo adecuado si alguno de los investigadores muere durante este capítulo.
+
+- **Descripción**: un hombre corpulento, la musculatura de su juventud comienza a convertirse en grasa. Poole tiene una tez oscura y cabello castaño que lleva peinado hacia atrás. Sus trajes son pulcros y bien cuidados, pero le quedan mal debido a su reciente aumento de peso.
+- **Rasgos**: los años en la fuerza lo han vuelto cínico. Ve lo peor en todos, aunque sigue siendo diligente en sus investigaciones y en la búsqueda de la verdad.
+- **Ganchos de interpretación**:
+  - Dependiendo de cómo actúen los investigadores al descubrir el cuerpo de Jackson Elias, Poole los ve como testigos útiles o sospechosos.
+  - Esto puede complicarse si los investigadores matan a alguno de los cultistas de manera pública y evidente.
+  - De cualquier manera, tiene muchas preguntas para ellos y seguirá apareciendo para hacer más, o aclarar sus respuestas, mientras los investigadores estén en Nueva York.
+  - Poole puede contarles a los investigadores (si ganan su confianza) sobre las similitudes entre el asesinato de Elias y aquellos por los que Hilton Adams fue arrestado (ver [Un Hombre Inocente](#un-hombre-inocente)).
+
+---
+
+#### Jonah Kensington, 48 años, propietario y editor en jefe de Prospero House
+
+- **Enlace**: propietario de Prospero House, la editorial de todos los libros de Jackson Elias, así como buen amigo de Elias (ver [Papeles Carlyle: La Expedición #2 o #3](#papeles-carlyle-la-expedición-2-o-3)).
+- **Enlace**: elemento de correspondencia enviado a Jackson Elias a través de su editor (ver [Papeles Carlyle América #6](#papeles-carlyle-américa-6)).
+
+Kensington es propietario y editor en jefe de Prospero House, una editorial de libros con temas ocultos o fantásticos, tanto de ficción como de no ficción. Las oficinas están ubicadas en Lexington Avenue cerca de la calle 35.
+
+Como el resto de los amigos de Jackson Elias, Kensington aún está en shock por la muerte de Elias. Aunque conocía los riesgos que Elias tomaba al investigar sus libros, Kensington se había acostumbrado a las historias de su amigo sobre escapes estrechos y valentía temeraria. Kensington les dice a los investigadores que sigue esperando que Elias entre por la puerta, riéndose de lo cerca que estuvo de la catástrofe esta vez.
+
+- **Descripción**: un hombre blanco bajo y robusto, cuya calva está enmarcada por rizos indomables de cabello rojo canoso. Usa gafas pince-nez, cuya incomodidad hace que las manipule constantemente. Los trajes de Kensington están hechos a medida para halagar su figura robusta, y su ropa siempre está impecable. Aplica loción para después de afeitarse liberalmente, y aunque el aroma es agradable al principio, rápidamente se vuelve empalagoso en espacios cerrados.
+- **Rasgos**: acostumbrado a ser el centro de atención, Kensington es rápido para hablar por encima de otras personas, especialmente cuando considera que lo que están diciendo es aburrido o fatuo. Al hablar, puntúa sus oraciones con golpes de su dedo.
+- **Ganchos de interpretación**:
+  - Kensington proporciona a los investigadores detalles sobre los movimientos recientes y la investigación de Elias.
+  - Si los investigadores mencionan que planean ir a Londres, ofrece detalles de contacto para **Mickey Mahoney**, editor de *The Scoop*, y el **Inspector James Barrington** de Scotland Yard.
+  - También comparte información sobre el funeral de Elias, si aún no ha ocurrido (ver [El Funeral](#el-funeral)), y la próxima lectura del testamento en la oficina de **Carlton Ramsey** en Harlem (ver [La Lectura del Testamento](#la-lectura-del-testamento)).
+
+---
+
+#### Carlton Ramsey, 54 años, abogado y albacea del patrimonio de Jackson Elias
+
+- **Enlace**: contacta a los investigadores para invitarlos a la lectura del testamento de Elias (ver [El Funeral](#el-funeral)).
+- **Enlace**: Jonah Kensington conoce a Ramsey y sugiere que los investigadores se pongan en contacto con él si quieren continuar el trabajo de su amigo (ver [Prospero House](#prospero-house)).
+- **Enlace**: encuentro en el funeral de Jackson Elias (ver [El Funeral](#el-funeral)).
+
+Ramsey ha sido el abogado de Jackson Elias desde que Elias es escritor profesional. Además de manejar contratos y ocasionales enredos legales, Ramsey también gestiona las finanzas de Elias y lleva a cabo funciones administrativas siempre que su cliente viaja por el mundo en busca de una historia. Su oficina está ubicada en Harlem, en la calle 124 y Lenox Avenue.
+
+Ramsey actúa como albacea del patrimonio de Elias, contactando a los investigadores para invitarlos a la lectura del testamento. A lo largo de los años, Ramsey y Elias se han vuelto amigos, y aunque cumple con sus deberes de albacea con profesionalismo, obviamente está profundamente afectado.
+
+- **Descripción**: un hombre afroamericano pequeño y enjuto, lleno de energía nerviosa. Sus ojos se mueven mientras habla, y constantemente juguetea con su pluma, cuchara de café o cualquier otra cosa que tenga a mano. El costoso traje a medida que lleva puesto se ve un poco brillante y gastado. Aunque claramente se está quedando calvo, Ramsey intenta ocultarlo pegando mechones de cabello bien aceitado sobre su coronilla.
+- **Rasgos**: Ramsey habla rápidamente, a menudo parece perder el hilo de lo que está diciendo antes de llegar al final de una oración. Su discurso está salpicado de comentarios y digresiones, algunos de los cuales son completamente fuera de lugar. A pesar de las apariencias, tiene un intelecto agudo y un sólido conocimiento de la ley, y quienes lo subestiman por su comportamiento excéntrico corren el riesgo de ser tomados por sorpresa.
+- **Ganchos de interpretación**:
+  - Como albacea, Ramsey está a cargo de los fondos de Elias destinados a continuar su trabajo.
+  - Puede financiar los viajes de los investigadores, actuar como punto central de contacto y reclutar nuevos investigadores si es necesario.
+  - Posee copias de algunas de las notas de Elias, permitiéndole proporcionar a los investigadores cualquier documento útil que hayan pasado por alto en la habitación de hotel de Elias.
+
+---
+
+### Antagonistas
+
+#### Capitán Walter Robson, 52 años, policía corrupto al servicio de la Lengua Sangrienta
+
+- **Enlace**: mencionado por el Teniente Poole como el detective potencialmente corrupto que investigó una serie de asesinatos similares al de Jackson Elias (ver [La Policía de Nueva York](#la-policía-de-nueva-york)).
+- **Enlace**: ampliamente nombrado como el hombre que incriminó a Hilton Adams por los asesinatos del culto en Harlem (ver [Un Hombre Inocente](#un-hombre-inocente)).
+- **Enlace**: trae a los investigadores para una "charla amistosa" si sus investigaciones en Harlem comienzan a generar olas (ver [Matones de Azul](#matones-de-azul)).
+
+Robson no es en realidad miembro de la Lengua Sangrienta y no tiene idea de lo que sucede en las profundidades de Ju-Ju House. Cree que M'Dari y sus asociados son simplemente contrabandistas, y está feliz de tomar su dinero como lo hace con cualquier otro criminal con quien hace negocios. Si se enfrenta a pruebas concretas del alcance completo de la depravación del culto, puede ser convencido de volverse contra ellos.
+
+- **Descripción**: un hombre blanco alto y corpulento con cabello gris, mejillas pesadas y una nariz que parece haber sido rota más de una vez. Viste trajes costosos y a menudo lleva un alfiler de corbata de diamantes. Le falta uno de sus incisivos, lo que es evidente cada vez que muestra una de sus frecuentes sonrisas dentadas.
+- **Rasgos**: superficialmente afable y encantador. Tiene una sonrisa cálida y practicada y una inteligencia rápida, que usa para desactivar situaciones incómodas. Cuando se le presiona, su buen humor desaparece rápidamente y se vuelve directo y amenazante.
+- **Ganchos de interpretación**:
+  - Robson sigue siendo pagado por la Lengua Sangrienta para proteger Ju-Ju House.
+  - Él y sus hombres pueden interferir en las operaciones de los investigadores, amenazándolos con arrestos por cargos falsos si se niegan a dejar las cosas como están.
+  - Si los investigadores lo ponen en una posición insostenible, puede ser convencido de proporcionar información sobre Ju-Ju House.
+
+---
+
+#### Mukunga M'Dari, 38 años, sumo sacerdote de la Lengua Sangrienta
+
+- **Enlace**: Hilton Adams sabe que M'Dari está asociado con Ju-Ju House y cree que es responsable de los asesinatos en Harlem (ver [Encuentro con Hilton Adams](#encuentro-con-hilton-adams)).
+- **Enlace**: M'Dari se interesa en los investigadores si comienzan a investigar Ju-Ju House o la Lengua Sangrienta (ver [Harlem](#harlem)).
+
+Este duro individuo disfruta castigando a los enemigos de su dios. M'Dari conoce la ubicación de la Montaña del Viento Negro, sabe lo que yace dentro de su caverna templo y sabe algo del gran diseño de Nyarlathotep. Pero M'Dari nunca revelará esta información a menos que sea forzado por magia. Si está cerca de la muerte, su último acto será contactar a Nyarlathotep y rezar por venganza del dios (el dios tiene un 1% de probabilidad de aceptar). M'Dari contacta a Edward Gavigan si se entera de que los entrometidos investigadores se dirigen a Londres, pero solo después de que M'Dari ya no tiene oportunidad de impartir justicia personalmente a estos blasfemos.
+
+M'Dari sabe vagamente del culto chino a Nyarlathotep, pero no tiene forma de alertarlos si los investigadores deciden ir primero a Shanghái. No sabe nada de las actividades de Huston en Australia y otros lugares.
+
+- **Descripción**: un hombre africano alto y musculoso con la cabeza afeitada. M'Dari lleva una perpetua expresión de ceño fruncido, como si el mundo a su alrededor fuera una constante fuente de decepción. Solo sonríe al infligir dolor o miedo. Su ropa es sencilla y económica, aunque bien cuidada.
+- **Rasgos**: disfruta lastimando a las personas. Está feliz de jugar con los investigadores como un gato juega con un ratón, deleitándose con su miedo y sufrimiento.
+- **Ganchos de interpretación**:
+  - Si M'Dari se entera de que los investigadores están haciendo preguntas o siguiendo a miembros del culto, contacta al Capitán Robson para advertirles.
+  - Si esto falla, o si Robson ha sido neutralizado, está feliz de encargarse de los investigadores él mismo.
+
+---
+
+#### Silas N'Kwane, 73 años, encargado de Ju-Ju House
+
+- **Enlace**: nombre escrito en el reverso de una tarjeta de presentación de Emerson Imports (ver [Papeles Carlyle América #5](#papeles-carlyle-américa-5)).
+- **Enlace**: Arthur Emerson reconoce el nombre de N'Kwane, identificándolo como el encargado de Ju-Ju House (ver [Emerson Imports](#arthur-emerson)).
+- **Enlace**: dirigido como experto en efímeras africanas por Mordecai Lemming (ver [Encuentro con el Dr. Lemming](#dr-mordecai-lemming)).
+- **Enlace**: tanto Hilton como Millie Adams saben que N'Kwane trabaja en Ju-Ju House (ver [Lo que Sabe Millie Adams](#millie-adams) y [Encuentro con Hilton Adams](#encuentro-con-hilton-adams)).
+
+N'Kwane es ágil para su edad, además de inteligente y perceptivo, aunque hace mucho que enloqueció por asociarse con la Lengua Sangrienta, quienes lo convencieron de unirse a ellos después de su llegada desde Kenia como escolta de M'Weru. Nunca revelará los secretos del culto y en realidad sabe poco más allá de la existencia del chakota. Luchará si debe, prefiriendo atacar por la espalda.
+
+- **Descripción**: un anciano afroamericano esqueléticamente delgado, con piel de la textura de una nuez. Solo tiene un flequillo de cabello blanco delgado y le faltan muchos dientes. Cuando atiende en la tienda, lleva una shuka roja brillante (una manta tradicional masái, usada envuelta alrededor del cuerpo) y sandalias para cumplir con las expectativas de los clientes, pero se pone un traje, corbata y sombrero cuando sale por negocios.
+- **Rasgos**: tiene una risa estridente cuando algo lo divierte; esto puede ser una broma inocente o la visión de un enemigo siendo consumido por el chakota. Es cobarde por naturaleza y suplicará y rogará por su vida si es amenazado con violencia física, siempre buscando la primera oportunidad para huir y pedir ayuda o apuñalar a su enemigo por la espalda.
+- **Ganchos de interpretación**:
+  - Si los investigadores causan problemas en Ju-Ju House, N'Kwane está feliz de hacer el papel del anciano indefenso, saliendo tambaleándose a la calle y gritando pidiendo ayuda, gritando que hay ladrones y asesinos en su tienda.
+
+---
+
+### Otros PNJs
+
+#### Willa Sligh, 20 años, secretaria legal
+
+- **Enlace**: secretaria de Carlton Ramsey (ver [La Lectura del Testamento](#la-lectura-del-testamento)).
+
+La sobrina y protegida de Ramsey, Willa está ansiosa por aprender todo lo que pueda de su excéntrico tío y un día sueña con abrir su propia firma legal. Willa está muy afectada por la muerte de su "tío Jackson", quien siempre le traía regalos de sus viajes, pero es lo suficientemente profesional como para mantener una actitud valiente.
+
+- **Descripción**: alta y atlética, Willa se está convirtiendo en una joven profesional inteligente y segura, aunque anhela ropa más moderna que la falda y chaqueta a medida que su tío insiste que use en la oficina.
+- **Rasgos**: ordenada, organizada y ingeniosa, tiene una cabeza sensata sobre sus hombros para alguien de su edad, aunque, como su tío, puede hablar hasta por los codos si se le da la oportunidad.
+- **Ganchos de interpretación**:
+  - Es probable que sea el primer punto de contacto con Ramsey una vez que los investigadores acepten el desafío de Elias.
