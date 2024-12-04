@@ -352,7 +352,6 @@ The combination is written on the **flyleaf of a Poe anthology** in the library.
 
 ---
 
-## Keeper Notes
 ### Cult Implications
 - **Life as a God** mentions **Nyarlathotep’s Sanctum**, located within the **Bent Pyramid in Egypt**.  
 - Diary excerpts describe cult rituals and tools, including **spiked clubs** used in murders.
@@ -363,11 +362,7 @@ The combination is written on the **flyleaf of a Poe anthology** in the library.
 
 The library offers an opportunity for roleplay, including breaking into a **party hosted by Erica** to access the books.
 
-
-
-
-## new 
-# Notas del Guardián
+------
 
 ## El Funeral
 
@@ -503,9 +498,9 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 
 
-# Notas del Guardián: Reunión con la Srta. Carlyle
+### Reunión con la Srta. Carlyle
 
-## NPCs
+### NPCs
 
 - **Erica Carlyle**: Hermana de Roger Carlyle. Mujer rica, hermosa y algo voluntariosa. Administra con éxito los negocios de la familia desde la desaparición de su hermano.
 
@@ -525,13 +520,13 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Besart**: Francés que Roger contrató en Egipto para un trabajo desconocido.
 
-## Ubicaciones
+### Ubicaciones
 
 - **La Mansión Carlyle**: Una elegante mansión de tres pisos en el condado de Westchester, media hora al norte de Nueva York, a orillas del río Hudson. Rodeada por cinco acres de jardines y una valla de hierro de 3.5 metros de alto. Seguridad estricta con guardias armados y perros.
 
 - **Biblioteca de la Mansión Carlyle**: Contiene libros antiguos y una caja fuerte oculta que guarda cuatro tomos importantes.
 
-## Interacciones
+### Interacciones
 
 - Para obtener una reunión con Erica, los investigadores deben impresionar a Bradley Grey. Pueden hacerlo insinuando que Roger está vivo, mostrando credenciales impresionantes, o prometiendo escribir un relato favorable de la Expedición Carlyle. [Credit Rating] o [Persuade] exitosos logran esto.
 
@@ -543,7 +538,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - Si los investigadores son demasiado insistentes, Erica puede utilizar sus influencias para hacer que la policía los detenga por cargos menores.
 
-## Información Revelada
+### Información Revelada
 
 - Erica revela que Roger tenía pesadillas en las que algo lo llamaba. Se despertaba gritando pero se negaba a hablar de ellas.
 
@@ -567,7 +562,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
   - *Amongst the Stones*
   - *Life as a God*
 
-## Posibles Acciones de los Investigadores
+### Posibles Acciones de los Investigadores
 
 - **Examinar la Biblioteca**: Si obtienen permiso, pueden buscar el libro de Poe con la combinación y acceder a la caja fuerte.
 
@@ -577,27 +572,25 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Asistir a una Fiesta**: Infiltrarse en una fiesta en la mansión podría permitirles acceder a la biblioteca con menos sospechas.
 
-## Notas Adicionales
+### Notas Adicionales
 
 - **Seguridad de la Mansión**: La seguridad es estricta debido a intentos previos de robo por parte de cultistas que buscaban los libros de Roger.
 
 - **Advertencia**: Si los investigadores intentan publicar información crítica sobre la Expedición Carlyle, podrían atraer atención indeseada y acciones legales por parte de Erica o Bradley Grey.
 
-# Notas del Guardián
+### El Doctor Está
 
-## El Doctor Está
-
-### NPCs
+#### NPCs
 
 - **Dr. Mordecai Lemming**: Académico anciano experto en folklore y mitología africana. Reside en el Hotel Murray Hill. Es nervioso y tiene hábitos excéntricos.
 
 - **Silas N'Kwane**: Propietario de Ju-Ju House en Harlem. Proveedor de fetiches y curiosidades africanas al Dr. Lemming.
 
-### Ubicaciones
+#### Ubicaciones
 
 - **Hotel Murray Hill**: Ubicado en East 40th Street y Park Avenue. Hotel elegante con decoración de mármol y estilo clásico desde 1884.
 
-### Interacciones
+#### Interacciones
 
 - **Obtener la dirección del Dr. Lemming**: Se puede conseguir a través del Teniente Poole o Rebecca Shosenburg.
 
@@ -617,7 +610,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Usar [Intimidate]**: Hará que el Dr. Lemming llame a la seguridad del hotel.
 
-### Información Revelada
+#### Información Revelada
 
 - Cree que el símbolo encontrado en las víctimas es de un culto africano de la muerte, o alguien lo está imitando para causar conflicto.
 
@@ -625,17 +618,17 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 ---
 
-## Reunión con Miriam Atwright
+### Reunión con Miriam Atwright
 
-### NPCs
+#### NPCs
 
 - **Miriam Atwright**: Bibliotecaria en la Biblioteca Widener de la Universidad de Harvard. Admiraba a Jackson Elias.
 
-### Ubicaciones
+#### Ubicaciones
 
 - **Biblioteca Widener**: Ubicada en la Universidad de Harvard, Massachusetts.
 
-### Interacciones
+#### Interacciones
 
 - **Contactar a Miriam**: Los investigadores pueden visitarla en persona o llamarla por teléfono.
 
@@ -651,7 +644,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - Requiere una semana de investigación o un día completo con ayuda de los investigadores y un [Library Use] exitoso.
 
-### Información Revelada
+#### Información Revelada
 
 - El libro *Africa's Dark Sects* desapareció de la biblioteca en circunstancias extrañas.
 
@@ -763,131 +756,9 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 ---
 
-## Los Principales de la Expedición Carlyle
+## Un Hombre Inocente
 
 ### NPCs
-
-- **Roger Vane Worthington Carlyle**: Líder de la expedición. Joven adinerado con reputación de playboy y comportamiento errático.
-
-- **Dr. Robert Ellington Huston**: Psiquiatra de renombre que trató a Carlyle. Hombre apuesto y sofisticado.
-
-- **Sir Aubrey Penhew**: Aristócrata británico y erudito en egiptología. Fundador de la Fundación Penhew.
-
-- **Hypatia Celestine Masters**: Heredera de una fortuna armamentista. Fotógrafa talentosa.
-
-- **Jack "Brass" Brady**: Guardaespaldas leal de Carlyle. Ex marine con pasado violento.
-
-### Información Detallada
-
-#### Roger Carlyle
-
-- Sin antecedentes penales ni servicio militar.
-
-- Tuvo problemas académicos y personales, incluyendo tratamientos por alcoholismo.
-
-- Obsesionado con una mujer africana llamada Nichonka Bunay (M'Weru).
-
-- Sufría pesadillas y desaparecía durante días, a veces visitando Harlem.
-
-- Organizó la expedición a Egipto bajo circunstancias misteriosas.
-
-#### Dr. Robert Huston
-
-- Sin antecedentes penales ni servicio militar.
-
-- Psiquiatra formado bajo Freud y Jung.
-
-- Trataba a la élite de Nueva York, incluyendo a Carlyle.
-
-- Se unió a la expedición supuestamente para continuar el tratamiento de Carlyle.
-
-- Estaba envuelto en un escándalo por el suicidio de una amante, Imelda Bosch.
-
-- Sus registros médicos sobre Carlyle están en la Junta de Asuntos Médicos del Estado de Nueva York. Acceder a ellos requiere justificación o un [Hard Fast Talk].
-
-#### Sir Aubrey Penhew
-
-- Aristócrata británico con título de baronet. Respetado egiptólogo.
-
-- Fundó la Fundación Penhew, financiando investigaciones arqueológicas.
-
-- Vida privada poco conocida. Soltero sin herederos.
-
-#### Hypatia Masters
-
-- Sin antecedentes penales ni servicio militar.
-
-- Fotógrafa talentosa con exhibiciones exitosas.
-
-- Tuvo una relación complicada que resultó en un embarazo no deseado y aborto.
-
-- Se unió a la expedición sin razones claras.
-
-#### Jack "Brass" Brady
-
-- Antecedentes penales por asaltos y comportamiento violento.
-
-- Ex sargento de marines con experiencia en China y Turquía.
-
-- Amigo cercano y guardaespaldas de Carlyle después de que este lo ayudara legalmente.
-
-- Conocido por llevar una placa de bronce sobre su corazón, supuestamente hecha por su madre para protegerlo.
-
-### Posibles Acciones de los Investigadores
-
-- **Investigar los registros del Dr. Huston**:
-
-  - Acceder a los archivos requiere un [Hard Fast Talk] o tener credenciales médicas.
-
-  - Podrían intentar robar los archivos fuera del horario, enfrentando seguridad mínima.
-
-- **Consultar con la Fundación Penhew**:
-
-  - Información adicional sobre Sir Aubrey y posibles pistas en Londres.
-
-- **Indagar sobre M'Weru**:
-
-  - Poca información disponible, pero es clave en la obsesión de Carlyle.
-
-- **Buscar conexiones en Harlem**:
-
-  - Roger visitaba Harlem frecuentemente antes de la expedición.
-
-### Notas Adicionales
-
-- **Seguridad de Archivos**: Los archivos del Dr. Huston están en una oficina con seguridad básica. Un guardia patrulla cada hora entre las 18:00 y las 6:00.
-
-- **Antecedentes Familiares**:
-
-  - **Familia Carlyle**: Riqueza construida desde el siglo XVIII, con historia de escándalos.
-
-  - **Familia Penhew**: Linaje noble desde la época de Guillermo el Conquistador, con historias de traición y magia negra.
-
----
-
-## General
-
-### Posibles Pistas y Conexiones
-
-- **Ju-Ju House**: Lugar que conecta varias pistas. Podría ser peligroso.
-
-- **Cultos Africanos**: Varios personajes mencionan cultos oscuros, símbolos y prácticas que podrían estar relacionadas.
-
-- **Expedición Carlyle**: Misterios en torno a su propósito real y el destino de sus miembros.
-
-- **Australia**: Información sobre cultos y leyendas podría llevar a los investigadores allí.
-
-### Advertencias
-
-- **Peligro en Ju-Ju House**: Podría ser una trampa o lugar de actividad cultista.
-
-- **Seguridad y Leyes**: Acciones ilegales pueden atraer atención policial o de enemigos ocultos.
-
-- **Cuidado con Aliados**: No todos los que parecen ayudar están libres de sospecha.
-
-# Notas del Guardián: Un Hombre Inocente
-
-## NPCs
 
 - **Rebecca Shosenburg**: Periodista del *New York Times* interesada en la conexión entre los asesinatos en Harlem y la muerte de Jackson Elias. Cree que Hilton Adams es inocente y busca probarlo.
 
@@ -905,7 +776,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **George Brunton**: Subalcaide a cargo del "Death House" en Sing Sing. Supervisará la visita de los investigadores a Hilton Adams.
 
-## Ubicaciones
+### Ubicaciones
 
 - **Oficinas del New York Times**: Ubicadas en 229 West 43rd Street. Centro de actividad periodística donde trabaja Rebecca Shosenburg.
 
@@ -917,15 +788,15 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Ju-Ju House**: Tienda de arte africano en Ransom Court, Harlem. Operada por Silas N'Kwane y vinculada a actividades cultistas.
 
-## Interacciones y Eventos
+### Interacciones y Eventos
 
-### Investigando el Artículo del New York Times
+#### Investigando el Artículo del New York Times
 
 - Los investigadores pueden encontrar el artículo escrito por Rebecca Shosenburg que vincula la muerte de Elias con una serie de asesinatos previos en Harlem.
 
 - Pueden visitar las oficinas del *New York Times* para hablar con Shosenburg. Ella está dispuesta a compartir información y está interesada en cualquier detalle que los investigadores puedan aportar.
 
-### Reunión con Rebecca Shosenburg
+#### Reunión con Rebecca Shosenburg
 
 - **Shosenburg** muestra recortes y artículos sobre los asesinatos previos y el caso de **Hilton Adams**.
 
@@ -933,7 +804,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - Ofrece presentar a los investigadores a **Millie Adams** y ayudar a organizar una visita a **Hilton Adams** en Sing Sing.
 
-### Reunión con Millie Adams
+#### Reunión con Millie Adams
 
 - La reunión se lleva a cabo en el **Teatro Lafayette** para mayor discreción.
 
@@ -955,7 +826,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - Si los investigadores generan confianza, Millie puede organizar una visita a **Hilton Adams** en Sing Sing.
 
-### Encuentro con los Amigos de Hilton Adams
+#### Encuentro con los Amigos de Hilton Adams
 
 - Los investigadores pueden visitar **Teddy's Saloon** para hablar con **Needham Johnson**, **Douglas Fells**, **Art Mills** y **Jackie Wallace**.
 
@@ -971,7 +842,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - Tienen miedo de involucrarse más debido a amenazas y presiones.
 
-### Visita a Hilton Adams en Sing Sing
+#### Visita a Hilton Adams en Sing Sing
 
 - Los investigadores son registrados y escoltados al "Death House".
 
@@ -991,7 +862,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - La visita dura 30 minutos. No se permite intercambiar objetos.
 
-### Encuentro con el Capitán Robson
+#### Encuentro con el Capitán Robson
 
 - Si los investigadores llaman la atención, pueden ser abordados por policías enviados por **Robson**.
 
@@ -1011,7 +882,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - Un [Persuade] o [Intimidate] exitoso puede forzar a Robson a actuar.
 
-## Información Revelada
+### Información Revelada
 
 - **Patrón de Desapariciones y Asesinatos**: Ocurren durante la fase oscura de la luna y en áreas específicas de Harlem.
 
@@ -1025,7 +896,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Mukunga M'Dari**: Individuo misterioso vinculado al culto, observado en **Ju-Ju House** y otros lugares.
 
-## Posibles Acciones de los Investigadores
+### Posibles Acciones de los Investigadores
 
 - **Investigar Ju-Ju House**: Realizar vigilancia o infiltrarse para descubrir actividades sospechosas.
 
@@ -1039,7 +910,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Alerta a las Autoridades**: Si se obtiene evidencia sólida, informar a agencias federales o a la prensa para exponer la corrupción.
 
-## Notas Adicionales
+### Notas Adicionales
 
 - **Riesgos**: Los investigadores pueden enfrentarse a violencia física, arrestos falsos y amenazas a sus seres queridos.
 
@@ -1053,7 +924,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Posibles Enfrentamientos**: Si se enfrentan directamente al culto o a policías corruptos, podrían ocurrir combates. Estar preparados para situaciones de peligro.
 
-## Tiradas Clave
+### Tiradas Clave
 
 - **[Hard Charm] o [Persuade]**: Para ganar la confianza de Millie Adams y otros personajes reticentes.
 
@@ -1071,9 +942,9 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 **Nota**: Es importante que el Guardián adapte estas notas según las acciones específicas de los jugadores y el flujo de la partida. Los eventos pueden variar dependiendo de las decisiones de los investigadores.
 
-# Notas del Guardián: Horror en Ju-Ju House
+## Horror en Ju-Ju House
 
-## NPCs
+### NPCs
 
 - **Silas N'Kwane**: Anciano africano-americano que dirige Ju-Ju House. Viste una manta roja (shuka) y lleva una llave colgada al cuello. Es miembro del culto de la Lengua Sangrienta.
 
@@ -1085,7 +956,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Chakota**: Entidad monstruosa compuesta de numerosas caras humanas fusionadas en una masa muscular. Se encuentra en un pozo en el sótano de Ju-Ju House y es alimentada con víctimas sacrificadas.
 
-## Ubicaciones
+### Ubicaciones
 
 - **Ju-Ju House**: Tienda de arte africano ubicada en el Callejón Ransom, Harlem. La tienda es pequeña y está abarrotada de artefactos africanos. Detrás de un mostrador hay una trampilla que conduce a un sótano secreto donde se llevan a cabo rituales.
 
@@ -1097,9 +968,9 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Fat Maybelle's**: Speakeasy ubicado en el sótano de una cafetería en la Calle 139 y la Sexta Avenida. Es uno de los lugares que M'Dari frecuenta.
 
-## Interacciones y Eventos
+### Interacciones y Eventos
 
-### Investigando Ju-Ju House
+#### Investigando Ju-Ju House
 
 - **Observar el Lugar**: Los investigadores pueden vigilar Ju-Ju House desde los edificios cercanos o la casa de empeño abandonada.
 
@@ -1111,7 +982,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - **Registro de la Habitación de M'Dari**: Encontrarían máscaras ceremoniales, objetos rituales y viales de un líquido extraño (hidromiel espacial).
 
-### Entrar en Ju-Ju House
+#### Entrar en Ju-Ju House
 
 - **Durante el Día**:
 
@@ -1127,7 +998,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - **Explorar el Sótano**: Enfrentarán a los ciimba si entran en la cámara ceremonial.
 
-### El Sótano y la Cámara Ceremonial
+#### El Sótano y la Cámara Ceremonial
 
 - **Trampilla y Escaleras**: Conducen a un corredor con símbolos tribales y una puerta robusta al final.
 
@@ -1157,7 +1028,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
     - **Caja de efectivo cerrada**: Contiene joyas y objetos personales de víctimas, y posiblemente documentos robados a Jackson Elias.
 
-### Rituales del Culto
+#### Rituales del Culto
 
 - **Rituales Mensuales**: Ocurren durante la luna nueva, alrededor de la 1:30 a.m.
 
@@ -1177,7 +1048,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - M'Dari puede intentar invocar un *Horror Cazador* para atacar a los intrusos.
 
-## Posibles Acciones de los Investigadores
+### Posibles Acciones de los Investigadores
 
 - **Recolectar Evidencia**:
 
@@ -1203,7 +1074,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
   - **Sabotaje**: Considerar destruir el Chakota o incendiar Ju-Ju House, teniendo en cuenta las posibles consecuencias para los residentes locales.
 
-## Consecuencias Potenciales
+### Consecuencias Potenciales
 
 - **Rescate de Víctimas**: Posibilidad de salvar a personas antes de ser sacrificadas.
 
@@ -1213,7 +1084,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
 - **Peligro Personal**: Enfrentar a criaturas como el Chakota o ciimba puede resultar en pérdidas de Cordura significativas.
 
-## Recompensas y Pérdidas de Cordura
+### Recompensas y Pérdidas de Cordura
 
 - **Recompensas**:
 
@@ -1241,7 +1112,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 
     - **Chakota**: 1/1D10 Cordura.
 
-## Notas Adicionales
+### Notas Adicionales
 
 - **Tiempo de Juego**: Los investigadores deben actuar antes de la próxima luna nueva o antes de la ejecución de Hilton Adams.
 
