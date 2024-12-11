@@ -326,7 +326,7 @@ Pareciera que Freddy se da cuenta de su situacion, por que tira su cabeza para a
 colapsa y temblando abraza las piernas de su esposa, mientras lentamente queda inmovil nuevamente. Muerto otra vez.
 
 [spot hidden] Notan a un hombre peque;o, vestido de marron que se esta yendo rapido y huye en un packard Gris. Lo
-reconocen como el asesino de Mancuso. No logran alcanzarlo. Joey Larson lo esta siguiendo, pero al ver el zombie se
+reconocen como el asesino de Mancuso. No logran alcanzarlo. Joey Larson los estaba siguiendo por q sabe q lo vieron, pero al ver el zombie se
 descarta a hablar con [Bonato](#archie-bonato)
 
 "Lo enterraron vivo!!!" "Asesinos!" clama la multitud al mortuario, el Sr Dupuy.
