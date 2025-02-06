@@ -540,7 +540,7 @@ The library offers an opportunity for roleplay, including breaking into a **part
 - Si los investigadores son demasiado insistentes, Erica puede utilizar sus influencias para hacer que la policía los detenga por cargos menores.
 
 
-## Party Start
+## 0800 Party Start
 
 "¡Queridos amigos, distinguidos invitados, y almas curiosas que han cruzado mis puertas esta noche!
 
@@ -553,6 +553,100 @@ Para aquellos que deseen descansar, mis habitaciones están preparadas con todo 
 Así que, queridos invitados, dejen que sus máscaras les protejan, pero no les impidan vivir esta noche con intensidad. Sean curiosos, audaces, y permitan que la magia de esta velada los envuelva.
 
 ¡Brindo por ustedes, por esta noche, y por los secretos que el eclipse nos revelará!" 
+
+## 0830 Meet Erica
+
+- Erica revela que Roger tenía pesadillas en las que algo lo llamaba. Se despertaba gritando pero se negaba a hablar de ellas.
+
+- Menciona que M'Weru (a quien llama "esa mujer negra Bunay") causó la obsesión de Roger. Erica es claramente racista hacia ella.
+
+- Roger desaparecía por días y luego aparecía con una mirada enloquecida, mencionando que había estado en Harlem.
+
+- Erica cree que el Dr. Huston y M'Weru convencieron a Roger de realizar la expedición.
+
+- Sobre los miembros de la expedición:
+  - **Sir Aubrey Penhew**: Erica no sabe mucho de él ni por qué se unió a la expedición.
+  - **Dr. Robert Huston**: Psiquiatra de Roger; Erica lo culpa por influenciar a su hermano.
+  - **Hypatia Masters**: Fotógrafa; Erica no estaba impresionada con ella.
+  - **Jack "Brass" Brady**: Guardaespaldas leal; Roger confiaba en él plenamente.
+
+- Erica menciona que Roger leía varios libros antiguos que lo obsesionaban. Ella descubrió una caja fuerte oculta en la biblioteca donde guardaba esos libros. Anotó la combinación en la portada de un libro de poemas de Poe.
+
+- Los libros en la caja fuerte son:
+  - *The Pnakotic Manuscripts*
+  - *Sélections de Livre D’Ivon*
+  - *Amongst the Stones*
+  - *Life as a God*
+
+## 0830 Meet Erica
+
+## 900  Conmottion in the kitchen as 2 wait staff are detained for smuggling weapons
+
+## 1000 Dinner, dinning room
+
+### 1030 1 Guest dissappears, security finds traces of blood and a mask
+
+## 1100 Fight breaks out between B Ruth and The explorer
+
+## 1200 Midnite seansence in the library by Allister Crowley
+
+He recently received the Mask of Hayama, which he plans to use for the first time in this seasence. He wants to show it off using a volunteer, but will use it himself if no one does.
+
+## 1230 Fats Waller plays the ballroom
+
+### 0115 Robbery attempt, security scare them off and they disappear
+
+## 0200 Exhibition match between Tuney vs Challenger
+
+## 330 Drinks and fireworks, the cultitst use the distraction to strike an assault
+
+## 400  M'Dari summons the hunting horror to target John TuVieja and his companions
+
+### Hunting Horror
+Resembling enormous ropy black serpents or worms possessing bat-like or umbrella-like wings, the form of a hunting horror continually shifts and changes, twitching and writhing, so it is hard to look at them. They may have only a single large wing rather than two. They speak in great harsh voices. A hunting horror’s length averages forty feet. These beings are dispelled by daylight. A strong enough burst of light (from a nuclear reaction, perhaps) could sear one to dust. Hunting horrors move swiftly and are harrier- creatures for some of the gods, particularly Nyarlathotep. They can be summoned in their own right and sent to seek out blood and lives.
+
+#### Stats
+
+STR 155
+CON 55
+SIZ 215
+DEX 70
+INT 80
+POW 115
+HP: 25 
+Damage Bonus: 3D6
+Build: 4
+Magic Points: 21
+Move: 7 / 11 flying
+
+#### ATTACKS Attacks per round
+2
+
+#### Fighting
+
+A hunting horror may attack with its bite, its crushing bulk, and its tail tentacle attacks.
+65% (32/13), damage 1D6 + damage bonus 
+
+#### Grasp (mnvr)
+
+The tail can be used to wrap around the victim, preventing movement. The hunting horror may then fly off with its victim or keep fighting. The victim can only break loose as the result of a successful opposed STR roll. When a victim is caught in the tail, the hunting horror may only make a bite attack, nibbling at the dangling victim with a bonus die to hit since the victim’s arms are usually pinioned.
+target immobile and must win an opposed STR roll to escape
+
+#### Dodge
+
+35% (17/7)
+
+#### Armor
+
+9-point skin.
+
+#### Sanity Points
+
+0/1D10 Sanity points to see a hunting horror.
+
+#### Spells
+
+
 
 ### Party NPCs
 
@@ -609,29 +703,7 @@ Así que, queridos invitados, dejen que sus máscaras les protejan, pero no les 
 | 48   | Gene Tunney                   | Boxer                      | A skilled boxer and rival of Jack Dempsey. He is here to network and discuss his career.                                                               | A championship belt mask    | Talks about his boxing career, avoids confrontation with Dempsey.                 | 70 HP, 14 SAN | Fight: 75%, Flee: 55% |
 | 49    | Roald Amundsen                | Explorer                   | The famous polar explorer, known for his expeditions to the Arctic and Antarctic. He is here to share his adventures.                                  | A polar bear mask           | Talks about his expeditions, hints at mysterious discoveries.                     | 70 HP, 15 SAN | Fight: 70%, Flee: 60% |
 
-### Reunion Erica
 
-- Erica revela que Roger tenía pesadillas en las que algo lo llamaba. Se despertaba gritando pero se negaba a hablar de ellas.
-
-- Menciona que M'Weru (a quien llama "esa mujer negra Bunay") causó la obsesión de Roger. Erica es claramente racista hacia ella.
-
-- Roger desaparecía por días y luego aparecía con una mirada enloquecida, mencionando que había estado en Harlem.
-
-- Erica cree que el Dr. Huston y M'Weru convencieron a Roger de realizar la expedición.
-
-- Sobre los miembros de la expedición:
-  - **Sir Aubrey Penhew**: Erica no sabe mucho de él ni por qué se unió a la expedición.
-  - **Dr. Robert Huston**: Psiquiatra de Roger; Erica lo culpa por influenciar a su hermano.
-  - **Hypatia Masters**: Fotógrafa; Erica no estaba impresionada con ella.
-  - **Jack "Brass" Brady**: Guardaespaldas leal; Roger confiaba en él plenamente.
-
-- Erica menciona que Roger leía varios libros antiguos que lo obsesionaban. Ella descubrió una caja fuerte oculta en la biblioteca donde guardaba esos libros. Anotó la combinación en la portada de un libro de poemas de Poe.
-
-- Los libros en la caja fuerte son:
-  - *The Pnakotic Manuscripts*
-  - *Sélections de Livre D’Ivon*
-  - *Amongst the Stones*
-  - *Life as a God*
    
 ### Posibles Acciones de los Investigadores
 
