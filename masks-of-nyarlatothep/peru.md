@@ -987,3 +987,5 @@ A menos que el Guardián elija continuar este capítulo con otro escenario prelu
   registros escritos y no hay pistas en el diseño del artefacto mismo.
     - Podría recrearse con el uso espontáneo de la habilidad *Cthulhu Mythos*, utilizando el hechizo *Signo de los
       Antiguos* como referencia.
+
+
