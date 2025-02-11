@@ -988,4 +988,3 @@ A menos que el Guardián elija continuar este capítulo con otro escenario prelu
     - Podría recrearse con el uso espontáneo de la habilidad *Cthulhu Mythos*, utilizando el hechizo *Signo de los
       Antiguos* como referencia.
 
-
