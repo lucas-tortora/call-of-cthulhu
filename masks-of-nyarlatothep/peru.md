@@ -635,6 +635,25 @@ A menos que el Guardián elija continuar este capítulo con otro escenario prelu
 
 - Nyarlathotep conoce todos los hechizos de los Mitos, usa *Sugerencia Mental* cuando es necesario.
 
+| **Spell**               | **MP Cost** | **SAN Cost** | **Casting Time** | **Effect**                                                                                   | **Duration**               | **Page** |
+|:-----------------------|:------------|:------------|:----------------|:---------------------------------------------------------------------------------------------|:---------------------------|:---------|
+| **Shrivelling**          | 1+ MP       | 1 SAN       | 1 round          | Deals 1D6 HP damage per MP spent to visible target within 10 yards.                          | Instant                    | 261     |
+| **Mind Blast**           | 10 MP       | 1D3 SAN     | 1 round          | Target loses 5 SAN instantly, suffers temporary insanity (1D10×10 hours).                    | See effect                  | 260     |
+| **Mental Suggestion**    | 8 MP        | 1D8 SAN     | 3 rounds         | Commands target to obey one spoken command for 1 round (violence, retreat, speak truth, etc).| 1 round                     | 260     |
+| **Call Forth the Unclean Spirit** | 10 MP  | 1D6 SAN     | 1D6 rounds       | Summons a malevolent incorporeal spirit to attack or possess a target.                        | Until banished or dismissed | 256     |
+| **Dominate**             | 10 MP       | 1D4 SAN     | 1 round          | Total mental control over a single target via MP vs MP resistance roll.                       | While concentration lasts   | 257     |
+| **Wither Limb**          | 12 MP       | 1D6 SAN     | 1 round          | Target’s chosen limb (arm/leg) withers and becomes useless instantly.                         | Permanent                   | 264     |
+| **Consume Likeness**     | 16 MP       | 1D10 SAN    | 10 minutes       | Kill and magically assume a victim’s physical form, voice, and mannerisms.                    | 24 hours                    | 255     |
+| **Flesh Ward** *(Bonus)* | 5 MP per use| 1 SAN       | 1 round          | Each use negates one instance of HP damage. MP must be spent per wound negated.               | Until all MP spent          | MM p.166|
+| **Fist of Yog-Sothoth**  | 10 MP       | 1D3 SAN     | 1 round          | Invisible force strikes target for 3D6 damage (no visible source). Victim resists with Dodge or takes full. | Instant         | 259     |
+
+#### Summons
+
+| **Creature**                   | **STR** | **CON** | **SIZ** | **DEX** | **POW** | **HP** | **MP** | **Move** | **DB / Build** | **Attacks**                                              | **Armor**                 | **SAN Loss**        | **Notes**                                                                                     |
+|:--------------------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:----------|:----------------|:-----------------------------------------------------------|:---------------------------|:--------------------|:------------------------------------------------------------------------------------------------|
+| **Dimensional Shambler**        | 100     | 70     | 90     | 65     | 90     | 16     | 18     | 8        | +1D6 / +2        | 1 (claw or grab 50%: 1D8+1D6) + Drag to Dimension (POW vs POW) | 5 pts (tough hide)          | 0/1D6               | Flickers between dimensions, physical for 1 round when attacking. Can phase out instantly.     |
+| **The Million Favored Ones: The Dead** | 80     | 40     | 60     | 55     | 10     | 10     | 2      | 5        | +1D4 / +1        | 1 (bite/tear 1D4+1D4) or Crush (hold, then 1D6+1D4 next round) | None                        | 0/1D6               | Limbs continue to act after major wounds. Cannot dodge. Endless undead servitors of Nyarlathotep. |
+
 #### Pérdida de Cordura
 
 - Ninguna.
