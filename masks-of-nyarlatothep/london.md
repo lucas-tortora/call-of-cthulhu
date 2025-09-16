@@ -1,4 +1,5 @@
-# Máscaras de Nyarlathotep – Capítulo Londres  
+# Máscaras de Nyarlathotep – Capítulo Londres
+
 ## The Scoop (Fleet Street)
 
 ### Descripción general
@@ -65,7 +66,7 @@
 - [Listen - hard] → Oír intrusos aproximándose antes del ataque.  
 - [Spot Hidden - normal] → Notar cultistas vigilando afuera.  
 - Combate: usar estadísticas de **Cultistas Promedio (Inglaterra)**, pág. 287.  
-- Sanidad: ver asesinato/violencia → [sanity (0/1D4)].  
+- Sanidad: ver asesinato/violencia → [Sanity (0/1D4)].  
 
 ---
 
@@ -102,116 +103,12 @@
 - Si los jugadores ya enfrentaron a Gavigan antes de ver a Mahoney, éste puede enviar 3 cultistas para asesinarlo ritualmente.  
 - Resultado: los investigadores leen sobre el crimen en el **Evening Standard**, o descubren la escena sangrienta al regresar a The Scoop.  
 
-
-# Máscaras de Nyarlathotep – Capítulo Londres  
-## The Scoop (Fleet Street)
-
-### Descripción general
-- Oficinas en el **3er piso de un edificio gastado en Fleet Street**, cerca de Ludgate Circus.  
-- Ambiente: humo de cigarrillos, olor a tinta fresca, periodistas corriendo con papeles.  
-- **Gancho de roleo**: lugar vibrante y caótico, transmite que “la noticia es mercancía”.  
-
 ---
 
-### PNJ Principal: Mickey Mahoney
-- **Rol**: Editor en jefe, amigo de Jackson Elias.  
-- **Personalidad**:  
-  - Apesadumbrado por la muerte de Elias.  
-  - Inicialmente reservado y desconfiado.  
-  - Se abre si ve a los investigadores competentes y sinceros.  
-  - Puede cortarse la relación si los ve inútiles o poco serios.  
-- **Gancho de roleo**:  
-  - Cínico, amante del chisme, busca sensacionalismo más que verdad.  
-  - Ofrece pagar £15 (≈ 75 USD) por información jugosa de cultos o escándalos.  
-
-#### Tiradas sociales
-- [Charm - normal / Fast Talk - hard / Persuade - extreme] → Ganar confianza.  
-- [Credit Rating - normal] → Impresionar mostrando status.  
-- [Psychology - normal] → Notar tristeza genuina por Elias.  
-
----
-
-### Lo que Mahoney sabe de Jackson Elias
-- Elias habló de un **culto maligno en Londres**, posiblemente bien conectado.  
-- No dio nombres ni pruebas.  
-- Estaba apurado, nervioso, vigilando a su alrededor.  
-- Consultó **números atrasados de The Scoop**, interesándose por tres artículos en particular (todos anónimos).  
-- Mahoney no sabe si Elias investigó más; cree que se fue rápido a Nueva York.  
-- **Nota del Guardián**: si los jugadores no encuentran conexión con la Penhew Foundation, Mahoney puede “recordar” que Elias mencionó una visita al director (Edward Gavigan).  
-
----
-
-### Investigación en los archivos del periódico
-- Rebuscar en los archivos: 1D4+1 horas.  
-  - [Library Use - normal] → reducir a 1 hora.  
-- Resultados: encuentran las **3 historias que interesaron a Elias**.  
-
-**Carlyle Papers Inglaterra #1: The Chelsea Serpent**  
-- Relacionado con el artista Miles Shipley.  
-- Dirección: 6, Holbein Mews, Chelsea, SW1W.  
-
-**Carlyle Papers Inglaterra #2: The Derbyshire Monster**  
-- Crímenes en Lesser Edale, pueblo rural en Derbyshire.  
-
-**Carlyle Papers Inglaterra #3: Slaughter in Soho**  
-- Directamente relacionado con la **Hermandad del Faraón Negro**.  
-- Elias llevó esta información a Inspector Barrington (Scotland Yard).  
-
----
-
-### Escena pulp: ataque a Mahoney
-- Opción 1: Mahoney llama al hotel preocupado por gente sospechosa rondando.  
-- Opción 2: El ataque ocurre mientras los investigadores están en The Scoop.  
-- **8 cultistas** (Hermandad) irrumpen para matar a Mahoney.  
-- Reacción: huyen si ven fuerte oposición. Puede seguir una persecución por los tejados.  
-- Si capturan a un cultista: no habla por miedo a Gavigan, solo se obtiene confirmación indirecta.  
-
-#### Tiradas posibles
-- [Listen - hard] → Oír intrusos aproximándose antes del ataque.  
-- [Spot Hidden - normal] → Notar cultistas vigilando afuera.  
-- Combate: usar estadísticas de **Cultistas Promedio (Inglaterra)**, pág. 287.  
-- Sanidad: ver asesinato/violencia → [sanity (0/1D4)].  
-
----
-
-### Preguntando en Londres sobre Elias
-- Libreros, periodistas, bibliotecarios recuerdan a Elias como:  
-  - Nervioso, apurado, como si lo siguieran.  
-  - Brusco y directo al hablar.  
-- Lo vieron consultar sobre:  
-  - La Expedición Carlyle.  
-  - La Penhew Foundation.  
-  - Asesinatos recientes de egipcios en la ciudad.  
-- **Solo Gavigan** conoce todos los movimientos de Elias en Londres (no compartirá esa info).  
-
----
-
-### Otros lugares de investigación en Londres
-- **British Museum & British Library (Great Russell St.)**:  
-  - Acceso a piezas únicas y sala de lectura.  
-  - [Library Use - normal] → buscar textos arcanos.  
-
-- **London Library (St. James’s Square)**:  
-  - Catálogo completo de *The Times* y secciones de religión, ocultismo, viajes.  
-  - Membresía: £10/año.  
-
-- **Central News Agency (Ludgate Circus)**:  
-  - Archivos de diarios del Reino Unido y extranjeros.  
-
-- **Press Association (cerca de Fleet Street)**:  
-  - Noticias provinciales, acceso pago.  
-
----
-
-### Posible giro mortal
-- Si los jugadores ya enfrentaron a Gavigan antes de ver a Mahoney, éste puede enviar 3 cultistas para asesinarlo ritualmente.  
-- Resultado: los investigadores leen sobre el crimen en el **Evening Standard**, o descubren la escena sangrienta al regresar a The Scoop.  
-
-# Máscaras de Nyarlathotep – Capítulo Londres  
 ## Vigilancia del Culto y la Cosa en la Niebla
 
 ### Vigilancia de Gavigan
-- **Estrategia inicial**: Gavigan no manda cultistas de inmediato, primero hace seguir a los investigadores.  
+- **Estrategia inicial**: Gavigan no manda cultistas de inmediato; primero hace seguir a los investigadores.  
 - **Tiradas**:  
   - [Spot Hidden - normal] para notar que los siguen (el Guardián puede tirar en secreto).  
   - Si el perseguidor es descubierto → intenta escabullirse.  
@@ -284,7 +181,7 @@
   - Dr. Brown puede dar contexto limitado.  
   - Se puede jugar una breve escena de entrevista o telegrama.  
 
-- Posibles preguntas abiertas para el Guardián:  
+- Preguntas abiertas para el Guardián:  
   - ¿Fue Gavigan quien liberó el fog-spawn en Glasgow?  
   - ¿O hay otros cultistas británicos operando independientemente?  
 
@@ -294,7 +191,8 @@
 - Seguir camiones de la Penhew Foundation hasta Limehouse → almacén de Puneet Chaudhary.  
 - Investigar conexión con **Henson Manufacturing** en Derby.  
 
-# Máscaras de Nyarlathotep – Capítulo Londres  
+---
+
 ## Los Muelles de Limehouse
 
 ### Cómo llegar a Limehouse
@@ -314,7 +212,7 @@
   - Bien vestidos y mostrando plata → riesgo de [Pickpocket], robo o golpiza.  
 - **Comunidades**:  
   - Ingleses de clase trabajadora (más inclinados al crimen).  
-  - Minorías africanas y asiáticas (chinos, japoneses, indios). Estas comunidades tienden a cerrarse y protegerse entre sí.  
+  - Minorías africanas y asiáticas (chinos, japoneses, indios). Tienden a cerrarse y protegerse entre sí.  
 
 ---
 
@@ -402,19 +300,21 @@
 - Hacer contacto con Barrington vía pruebas → futura cooperación.  
 - Aumentar la hostilidad de Gavigan y acelerar los ataques del culto.  
 
-# THE CHELSEA SERPENT – Notas de Keeper (Londres)
+---
+
+# The Chelsea Serpent – Notas de Keeper (Londres)
 
 ## Contexto
 - Jackson Elias encontró la pista, pero no la siguió: los investigadores al rastrear a Shipley se exponen a Ssathasaa, una inteligencia fría y peligrosa.  
 - Esta aventura es un **desvío** y no afecta directamente la trama principal de Nyarlathotep, pero representa una amenaza potencial para Inglaterra.  
-- Puede trasladarse a otra ciudad modificando nombres y noticias (ej. Nueva York, Australia).
+- Puede trasladarse a otra ciudad modificando nombres y noticias (ej. Nueva York, Australia).  
 
 ---
 
 ## Conexión Inicial
 - **Link:** Mickey Mahoney + artículo de *The Scoop* (Carlyle Papers England #1).  
 - **Gancho para jugadores:** curiosidad periodística, interés por el arte o rumores extraños.  
-- **Tirada:** Library Use normal para rastrear artículos sobre Shipley.
+- **Tirada:** Library Use normal para rastrear artículos sobre Shipley.  
 
 ---
 
@@ -430,7 +330,7 @@
 - **Roleplaying hooks:** busca permanecer oculto; usa a Shipley para conseguir víctimas; vender pinturas para mantener apariencia normal.  
 - **Tiradas posibles:**  
   - Spot Hidden o Luck normal para notar sombras anómalas.  
-  - Sanity [0/1D6] si se ve la forma verdadera.
+  - Sanity [0/1D6] si se ve la forma verdadera.  
 
 ---
 
@@ -443,103 +343,59 @@
 - **Tiradas:**  
   - Psychology regular para notar paranoia y miedo.  
   - Charm / Fast Talk / Persuade Hard para convencerlo de colaborar.  
-  - Psychoanalysis reduce dificultad si se busca convencerlo.
+  - Psychoanalysis reduce dificultad si se busca convencerlo.  
 
 ---
 
-## Ubicación
-
-### Chelsea
-- Área de clase media-baja y trabajadora, con bohemia artística.  
-- Cercana a Sloane Square: clase media-alta.  
-- Calles generalmente tranquilas durante el día.
-
-### Casa de Shipley – 6 Holbein Mews
+## Ubicación: Chelsea – Casa de Shipley, 6 Holbein Mews
 - Dos pisos, ladrillo, ventanas con barrotes, jardín trasero con muro alto, entrada trasera por callejón.  
-- Interior: desordenado, olor fuerte (posible reptil), muebles viejos, paredes descoloridas, telarañas.  
 
-#### Piso Bajo
+### Piso Bajo
 - Entrada: hall con acceso a cocina, comedor, sala.  
 - Cocina: puerta al jardín trasero, puerta cerrada al sótano.  
 - Tiradas posibles:  
   - Natural World / Hard Know para identificar olor reptiliano.  
 
-#### Piso Superior
+### Piso Superior
 - 3 dormitorios normales, 1 de Shipley (cerrado 80% del tiempo).  
 - Closet: Spot Hidden para hallar caja lacada con jeringa y frasco de droga plutoniana (10 dosis).  
 - Tiradas posibles: Cthulhu Mythos regular para identificar propósito de la droga.  
 
-#### Sótano
+### Sótano
 - Clutter con camino hacia **habitación secreta**: Spot Hidden normal para notar la puerta secreta.  
 - Sala secreta: estantes con frascos y símbolos mágicos, bañera de piedra con restos de la última víctima.  
 - Tiradas:  
-  - Science (Chemistry/Pharmacy) regular para identificar ingredientes de la droga (fósiles, ácido acético, mercurio, etc.)  
+  - Science (Chemistry/Pharmacy) regular para identificar ingredientes de la droga.  
   - Sanity [1/1D4+1] al descubrir restos humanos.  
 
-#### Ático (The Garret)
+### Ático (The Garret)
 - Iluminación con lámparas de querosén, techo inclinado, caballete con bocetos.  
 - Obras terminadas y horribles: cada observación requiere Sanity [1D3/1D6+2].  
-- Ejemplos de pinturas:  
-  - *Ancient Science*  
-  - *The Dark Pharaoh*  
-  - *Goat Wood*  
-  - *Drawn in Blood*  
-  - *Black Mountain* (Nyarlathotep Bloody Tongue, puede ser reconocido por jugadores de NY).  
+- Pinturas: *Ancient Science*, *The Dark Pharaoh*, *Goat Wood*, *Drawn in Blood*, *Black Mountain*.  
 - Closet con padlock: Shipley tiene la llave; puede abrirse con Locksmith Hard.  
-- Obra *The Serpent's Altar*: provocativa, Sanity [0/1] por efecto inquietante.
+- Obra *The Serpent's Altar*: provocativa, Sanity [0/1] por efecto inquietante.  
 
 ---
 
 ## Interacciones y Tiradas Clave
-
-### Observación de Shipley
-- Si stakeout: 20% por noche que salga en busca de víctima.  
-- Siguiendo: Stealth regular; si lo descubre, intenta perderse en multitudes o callejones.  
-
-### Entradas Forzadas
-- Skylight: vidrio negro, cadena y candado.  
-- Tiradas:  
-  - STR Hard para romper puerta/ventana.  
-  - Locksmith / Hard Mechanical Repair combinada con Stealth para evitar detección.  
-  - Listen Hard para Shipley/Ssathasaa según ubicación.  
-
-### Tocando la Puerta
-- Siempre responde **Bertha**, lleva cesto de tejido (aguja mortal).  
-- Para convencerla: Fast Talk / Charm / Persuade normal o Hard si sospechosa.  
-- Al ingresar: introducción a Shipley, guías hasta el Garret, olor notable.  
-
-### Consumo de Droga Plutoniana
-- Efecto: viajes en el tiempo y visiones históricas o prehistóricas.  
-- Duración: 1D3 horas por dosis; +1D10 History si exposición prolongada.  
-- Sanity: 1D8 + visiones, Mythos 1D6.  
-- Posibles destinos: tabla de 1D6 (serpent people, Yithians, R’lyeh, shoggoths, Gran Incendio de Londres, expedición Carlyle).
-
----
-
-## Ssathasaa Actúa
-- Detecta intento de seguimiento o allanamiento.  
-- Usa **Mental Suggestion**, **Dominate**, **Enthrall Victim** para dividir y capturar.  
-- Si resisten: último recurso, revela forma verdadera.  
-- Sanity: [0/1D6] al ver forma verdadera.  
-- Dominación serum: Hard CON para resistir, de lo contrario, altamente sugestible a órdenes.  
-
-### Escapatoria
-- Falsificar control: Art/Craft (Acting) o Persuade.  
-- Liberarse de ataduras: STR o DEX.  
-- Convencer a Shipley: Psychology regular, Charm / Fast Talk / Persuade Hard.  
-- Intervención externa: otros investigadores o cultistas de Gavigan podrían rescatar.
+- **Observación de Shipley**: stakeout 20% por noche que salga en busca de víctima; Stealth regular para seguirlo.  
+- **Entradas Forzadas**: STR Hard, Locksmith / Mechanical Repair combinadas con Stealth, Listen Hard.  
+- **Tocando la Puerta**: siempre responde Bertha; Fast Talk / Charm / Persuade normal o Hard si sospechosa.  
+- **Consumo de Droga Plutoniana**: viajes en el tiempo, visiones históricas o prehistóricas; Sanity 1D8 + visiones, Mythos 1D6; duración 1D3 horas/dosis.  
+- **Ssathasaa Actúa**: Mental Suggestion, Dominate, Enthrall Victim, revela forma verdadera como último recurso; Sanity [0/1D6].  
+- **Escapatoria**: Art/Craft (Acting) o Persuade; STR/DEX; intervención externa opcional.  
 
 ---
 
 ## Tiradas Resumidas
-- **Spot Hidden / Luck:** sombras extrañas, secretos, cajas ocultas.  
-- **Library Use:** artículos sobre Shipley.  
-- **Psychology / Psychoanalysis:** notar paranoia o romper control de Shipley.  
-- **Fast Talk / Charm / Persuade:** convencer NPCs.  
-- **STR / DEX / Stealth / Locksmith / Mechanical Repair:** entradas, escapar o infiltrarse.  
-- **Sanity:** exposición a visiones o horrores (1D3/1D6+2, 1D8, 1D4+1 según escena).  
-- **Cthulhu Mythos:** identificar drogas y efectos, substancias extrañas.  
-- **Science (Chemistry/Pharmacy):** analizar Plutonian Drug.  
+- Spot Hidden / Luck: sombras, secretos, cajas ocultas.  
+- Library Use: artículos sobre Shipley.  
+- Psychology / Psychoanalysis: notar paranoia o romper control de Shipley.  
+- Fast Talk / Charm / Persuade: convencer NPCs.  
+- STR / DEX / Stealth / Locksmith / Mechanical Repair: entradas, escapar, infiltrarse.  
+- Sanity: exposición a horrores y visiones.  
+- Cthulhu Mythos: identificar drogas y efectos.  
+- Science (Chemistry/Pharmacy): analizar Plutonian Drug.  
 
 ---
 
@@ -548,4 +404,3 @@
 - Posibles contactos históricos: Aleister Crowley, Algernon Blackwood, Austin Osman Spare, Bloomsbury Set.  
 - Interés por colecciones privadas, enriquecimiento de Shipley, misterio de sus pinturas.  
 - Oportunidad de rescatar a Shipley y evitar nuevas víctimas.
-
